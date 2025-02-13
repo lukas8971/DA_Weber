@@ -1,0 +1,54 @@
+\babel@toc {naustrian}{}\relax 
+\babel@toc {naustrian}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {naustrian}{}\relax 
+\babel@toc {naustrian}{}\relax 
+\babel@toc {naustrian}{}\relax 
+\babel@toc {naustrian}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {naustrian}{}\relax 
+\babel@toc {naustrian}{}\relax 
+\addvspace {10pt}
+\babel@toc {naustrian}{}\relax 
+\babel@toc {english}{}\relax 
+\addvspace {10pt}
+\babel@toc {naustrian}{}\relax 
+\babel@toc {english}{}\relax 
+\addvspace {10pt}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces The main symptomatic differences between Aphasia (left) and Apraxia (right). \cite {ApraxiaAphasia}.\relax }}{10}{figure.caption.8}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces The anatomy of a neuron \cite {zou2009overview}.\relax }}{16}{figure.caption.20}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces A model of an artificial node with $x_i$ being the input, $w_i$ the weights, $f$ the activation function and $y$ the output \cite {zou2009overview}.\relax }}{17}{figure.caption.23}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Plots of the activation functions for sigmoid, tanh, ReLu and softplus functions \cite {wang2020influence}.\relax }}{18}{figure.caption.24}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Topology sketches for neural networks. A) depicts the general topology, b) is a feedforwad ANN and c) a feedback ANN \cite {zou2009overview}.\relax }}{19}{figure.caption.26}%
+\addvspace {10pt}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Screenshot of Treasure Hunters\cite {TreasureHunters}.\relax }}{27}{figure.caption.35}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Screenshot of Training with Phonak\cite {Phonak}.\relax }}{28}{figure.caption.38}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Screenshot of Opera Singer\cite {ParkinsonGame}.\relax }}{29}{figure.caption.41}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Screenshot of Apraxia World\cite {hair2021longitudinal}.\relax }}{31}{figure.caption.44}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Screenshot of Flying Rocket\cite {takagi2020voice}.\relax }}{32}{figure.caption.47}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Screenshot of multiple minigames of \emph {Talking to Teo}\cite {navarro2014talking}.\relax }}{33}{figure.caption.50}%
+\addvspace {10pt}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces The thesis' course of action.\relax }}{40}{figure.caption.61}%
+\addvspace {10pt}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Rough sketch for category navigation.\relax }}{48}{figure.caption.62}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces The Use-Case diagram for the game.\relax }}{51}{figure.caption.63}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces The level screen for a phonetic level. In this example, the currently sought phrase is the letter 'D'.\relax }}{55}{figure.caption.67}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces The adaption process for the Whisper Image.\relax }}{59}{figure.caption.75}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Examples of lip movement images.\relax }}{59}{figure.caption.76}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces The Shader Graph for calculating the lava texture.\relax }}{60}{figure.caption.78}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Examples of sound cards for children.\relax }}{61}{figure.caption.80}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces The help-buttons present within a level. Top Right: Skip jump, bottom left: Start recording and bottom right: Listen to phrase.\relax }}{63}{figure.caption.86}%
+\contentsline {figure}{\numberline {5.9}{\ignorespaces The time- and accuracy high scores for one level.\relax }}{64}{figure.caption.87}%
+\contentsline {figure}{\numberline {5.10}{\ignorespaces The settings screen for the game.\relax }}{65}{figure.caption.88}%
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Navigational screens of the game.\relax }}{66}{figure.caption.92}%
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Category edit Screen.\relax }}{67}{figure.caption.93}%
+\contentsline {figure}{\numberline {5.13}{\ignorespaces Level edit screen\relax }}{68}{figure.caption.94}%
+\contentsline {figure}{\numberline {5.14}{\ignorespaces Data Export options.\relax }}{69}{figure.caption.96}%
+\contentsline {figure}{\numberline {5.15}{\ignorespaces General structure of Unity games.\relax }}{70}{figure.caption.97}%
+\contentsline {figure}{\numberline {5.16}{\ignorespaces Script Structure of the game.\relax }}{74}{figure.caption.98}%
+\contentsline {figure}{\numberline {5.17}{\ignorespaces Comparison of therapy and game entertainment ratings.\relax }}{78}{figure.caption.99}%
+\contentsline {figure}{\numberline {5.18}{\ignorespaces Comparison of subjective improvement between therapy and game.\relax }}{79}{figure.caption.100}%
+\addvspace {10pt}
+\addvspace {10pt}
+\addvspace {10pt}

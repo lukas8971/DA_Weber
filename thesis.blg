@@ -1,0 +1,108 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: thesis.aux
+The style file: plainnat.bst
+Database file #1: intro.bib
+Warning--entry type for "anatomy3D" isn't style-file defined
+--line 473 of file intro.bib
+Repeated entry---line 579 of file intro.bib
+ : @incollection{clark2003aphasia
+ :                               ,
+I'm skipping whatever remains of this entry
+Warning--entry type for "Nuance" isn't style-file defined
+--line 646 of file intro.bib
+Warning--entry type for "Huggingface" isn't style-file defined
+--line 654 of file intro.bib
+Warning--entry type for "ggml" isn't style-file defined
+--line 662 of file intro.bib
+Warning--entry type for "ggmlInto" isn't style-file defined
+--line 671 of file intro.bib
+Warning--entry type for "whisperCpp" isn't style-file defined
+--line 680 of file intro.bib
+Warning--entry type for "WhisperConv" isn't style-file defined
+--line 689 of file intro.bib
+Warning--entry type for "LogopedicStatistic" isn't style-file defined
+--line 729 of file intro.bib
+Warning--entry type for "ApraxiaAphasia" isn't style-file defined
+--line 760 of file intro.bib
+Name 1 in "René Baranyi, Lukas Weber, Christoph Aigner], Vanessa Hohenegger, Sylvia Winkler, and Thomas Grechenig" has a comma at the end for entry LEPaper
+while executing---line 1347 of file plainnat.bst
+Too many commas in name 1 of "René Baranyi, Lukas Weber, Christoph Aigner], Vanessa Hohenegger, Sylvia Winkler, and Thomas Grechenig" for entry LEPaper
+while executing---line 1347 of file plainnat.bst
+Too many commas in name 1 of "René Baranyi, Lukas Weber, Christoph Aigner], Vanessa Hohenegger, Sylvia Winkler, and Thomas Grechenig" for entry LEPaper
+while executing---line 1347 of file plainnat.bst
+Name 1 in "René Baranyi, Lukas Weber, Christoph Aigner], Vanessa Hohenegger, Sylvia Winkler, and Thomas Grechenig" has a comma at the end for entry LEPaper
+while executing---line 1347 of file plainnat.bst
+Too many commas in name 1 of "René Baranyi, Lukas Weber, Christoph Aigner], Vanessa Hohenegger, Sylvia Winkler, and Thomas Grechenig" for entry LEPaper
+while executing---line 1347 of file plainnat.bst
+Too many commas in name 1 of "René Baranyi, Lukas Weber, Christoph Aigner], Vanessa Hohenegger, Sylvia Winkler, and Thomas Grechenig" for entry LEPaper
+while executing---line 1347 of file plainnat.bst
+Warning--to sort, need author or key in Flip
+Warning--to sort, need author or key in Madoo
+Warning--to sort, need author or key in License
+Warning--empty year in Flip
+Warning--empty year in License
+Warning--empty year in Madoo
+Warning--empty journal in atakpaassessment
+Warning--empty year in atakpaassessment
+Warning--empty year in atakpaassessment
+Warning--empty publisher in ParkinsonGame
+Warning--empty year in proestler2023
+Name 1 in "René Baranyi, Lukas Weber, Christoph Aigner], Vanessa Hohenegger, Sylvia Winkler, and Thomas Grechenig" has a comma at the end for entry LEPaper
+while executing---line 1429 of file plainnat.bst
+Too many commas in name 1 of "René Baranyi, Lukas Weber, Christoph Aigner], Vanessa Hohenegger, Sylvia Winkler, and Thomas Grechenig" for entry LEPaper
+while executing---line 1429 of file plainnat.bst
+Too many commas in name 1 of "René Baranyi, Lukas Weber, Christoph Aigner], Vanessa Hohenegger, Sylvia Winkler, and Thomas Grechenig" for entry LEPaper
+while executing---line 1429 of file plainnat.bst
+Name 1 in "René Baranyi, Lukas Weber, Christoph Aigner], Vanessa Hohenegger, Sylvia Winkler, and Thomas Grechenig" has a comma at the end for entry LEPaper
+while executing---line 1429 of file plainnat.bst
+Too many commas in name 1 of "René Baranyi, Lukas Weber, Christoph Aigner], Vanessa Hohenegger, Sylvia Winkler, and Thomas Grechenig" for entry LEPaper
+while executing---line 1429 of file plainnat.bst
+Too many commas in name 1 of "René Baranyi, Lukas Weber, Christoph Aigner], Vanessa Hohenegger, Sylvia Winkler, and Thomas Grechenig" for entry LEPaper
+while executing---line 1429 of file plainnat.bst
+Warning--empty booktitle in LEPaper
+Warning--there's a number but no volume in salim2023verbal
+Warning--empty journal in susi2007serious
+Warning--empty journal in wessel2010semi
+You've used 82 entries,
+            2773 wiz_defined-function locations,
+            1074 strings with 21382 characters,
+and the built_in function-call counts, 41145 in all, are:
+= -- 3613
+> -- 2653
+< -- 49
++ -- 907
+- -- 822
+* -- 3449
+:= -- 6277
+add.period$ -- 257
+call.type$ -- 82
+change.case$ -- 514
+chr.to.int$ -- 79
+cite$ -- 182
+duplicate$ -- 1744
+empty$ -- 3217
+format.name$ -- 927
+if$ -- 8601
+int.to.chr$ -- 4
+int.to.str$ -- 1
+missing$ -- 70
+newline$ -- 423
+num.names$ -- 316
+pop$ -- 1081
+preamble$ -- 1
+purify$ -- 434
+quote$ -- 0
+skip$ -- 1403
+stack$ -- 0
+substring$ -- 1515
+swap$ -- 198
+text.length$ -- 13
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 887
+warning$ -- 15
+while$ -- 353
+width$ -- 0
+write$ -- 1058
+(There were 13 error messages)
