@@ -1,408 +1,120 @@
-\begin{thebibliography}{82}
-\providecommand{\natexlab}[1]{#1}
-\providecommand{\url}[1]{\texttt{#1}}
-\expandafter\ifx\csname urlstyle\endcsname\relax
-  \providecommand{\doi}[1]{doi: #1}\else
-  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+\begin{thebibliography}{100}
 
-\bibitem[Fli()]{Flip}
-Flipgrid.
-\newblock \url{https://info.flip.com/en-us.html}.
-\newblock Accessed: 2024-09-13.
+\bibitem{bentley2022prehistory}
+R~Alexander Bentley.
+\newblock Prehistory of kinship.
+\newblock {\em Annual Review of Anthropology}, 51(1):137--154, 2022.
 
-\bibitem[Lic()]{License}
-Creative commons license.
-\newblock \url{https://creativecommons.org/licenses/by-sa/4.0/deed.en}.
-\newblock Accessed: 2024-09-13.
+\bibitem{kelly2015knowledge}
+Lynne Kelly.
+\newblock {\em Knowledge and power in prehistoric societies: Orality, memory,
+  and the transmission of culture}.
+\newblock Cambridge University Press, 2015.
 
-\bibitem[Mad()]{Madoo}
-Madoo.
-\newblock \url{https://madoo.net/}.
-\newblock Accessed: 2024-09-13.
+\bibitem{singleton2011communication}
+Mike Singleton.
+\newblock Communication between prehistoric and primitive man.
+\newblock {\em Art and Communication in Pre-Literate Societies}, pages
+  410--416, 2011.
 
-\bibitem[Abd-Alrazaq et~al.(2022)Abd-Alrazaq, Alajlani, Alhuwail, Schneider,
-  Akhu-Zaheya, Ahmed, and Househ]{abd2022effectiveness}
-Alaa Abd-Alrazaq, Mohannad Alajlani, Dari Alhuwail, Jens Schneider, Laila
-  Akhu-Zaheya, Arfan Ahmed, and Mowafa Househ.
-\newblock The effectiveness of serious games in alleviating anxiety: systematic
-  review and meta-analysis.
-\newblock \emph{JMIR serious games}, 10\penalty0 (1):\penalty0 e29137, 2022.
+\bibitem{salim2023verbal}
+Mammadzada~Sevinj Salim.
+\newblock Verbal and non-verbal communication in linguistics.
+\newblock {\em International Journal of Innovative Technologies in Social
+  Science}, (2 (38)), 2023.
 
-\bibitem[Alp{\'\i}zar et~al.(2020)Alp{\'\i}zar, Frydman, Res{\'e}ndiz-Rojas,
-  Trejo-Rangel, and Aldecoa-Castillo]{alpizar2020fat}
-Melchor Alp{\'\i}zar, Tamara~Daniela Frydman, Jos{\'e} de~Jes{\'u}s
-  Res{\'e}ndiz-Rojas, Miguel~Alejandro Trejo-Rangel, and Jes{\'u}s Manuel~De
-  Aldecoa-Castillo.
-\newblock Fat mass index (fmi) as a trustworthy overweight and obesity marker
-  in mexican pediatric population.
-\newblock \emph{Children}, 7\penalty0 (3):\penalty0 19, 2020.
-
-\bibitem[Anderson(2002)]{anderson2002hungry}
-D~Michael Anderson.
-\newblock Hungry red planet: Children’s multimedia nutrition simulation
-  software.
-\newblock In \emph{The 130th Annual Meeting of APHA}, 2002.
-
-\bibitem[Association(2019)]{ApraxiaAphasia}
-Australian~Aphasia Association.
-\newblock Aphasia versus apraxia, 2019.
-\newblock URL
-  \url{https://www.facebook.com/photo/?fbid=2506075052781246&set=a.470400049682100}.
-
-\bibitem[ATAKPA et~al.()ATAKPA, Nsit, and OWUSHI]{atakpaassessment}
-Arit~Okonobong ATAKPA, Afaha Nsit, and Justina~Ngozi OWUSHI.
-\newblock Assessment of speech impediment among children: The cause and
-  challenges.
-
-\bibitem[Austria(2022)]{LogopedicStatistic}
-Statistik Austria.
-\newblock Jahrbuch der gesundheitsstatistik, 2022.
-\newblock URL
-  \url{https://www.statistik.at/fileadmin/user_upload/GesundheitsJB-2022_barr_Web.pdf}.
-
-\bibitem[Balaji and Sadashivappa(2015)]{balaji2015speech}
-V~Balaji and G~Sadashivappa.
-\newblock Speech disabilities in adults and the suitable speech recognition
-  software tools-a review.
-\newblock In \emph{2015 International Conference on Computing and Network
-  Communications (CoCoNet)}, pages 559--564. IEEE, 2015.
-
-\bibitem[Borisov et~al.(2022)Borisov, Leemann, Se{\ss}ler, Haug, Pawelczyk, and
-  Kasneci]{borisov2022deep}
-Vadim Borisov, Tobias Leemann, Kathrin Se{\ss}ler, Johannes Haug, Martin
-  Pawelczyk, and Gjergji Kasneci.
-\newblock Deep neural networks and tabular data: A survey.
-\newblock \emph{IEEE transactions on neural networks and learning systems},
-  2022.
-
-\bibitem[Cano et~al.(2015)Cano, Pe{\~n}e{\~n}ory, Collazos, Fardoun, and
-  Alghazzawi]{Phonak}
-Sandra Cano, Victor Pe{\~n}e{\~n}ory, C{\'e}sar~A Collazos, Habib~M Fardoun,
-  and Daniyal~M Alghazzawi.
-\newblock Training with phonak: Serious game as support in auditory--verbal
-  therapy for children with cochlear implants.
-\newblock In \emph{Proceedings of the 3rd 2015 Workshop on ICTs for improving
-  Patients Rehabilitation Research Techniques}, pages 22--25, 2015.
-
-\bibitem[Chandran et~al.(2020)Chandran, Al-Sa’di, and Ahmad]{9255313}
-Srijith Chandran, Ahmed Al-Sa’di, and Esraa Ahmad.
-\newblock Exploring user centered design in healthcare: A literature review.
-\newblock In \emph{2020 4th International Symposium on Multidisciplinary
-  Studies and Innovative Technologies (ISMSIT)}, pages 1--8, 2020.
-\newblock \doi{10.1109/ISMSIT50672.2020.9255313}.
-
-\bibitem[Clark and Cummings(2003)]{clark2003aphasia}
-David~Glenn Clark and Jeffrey~L Cummings.
-\newblock Aphasia.
-\newblock In \emph{Neurological disorders}, pages 265--275. Elsevier, 2003.
-
-\bibitem[Comeras-Chueca et~al.(2021)Comeras-Chueca, Marin-Puyalto,
-  Matute-Llorente, Vicente-Rodriguez, Casajus, Gonzalez-Aguero,
-  et~al.]{comeras2021effects}
-Cristina Comeras-Chueca, Jorge Marin-Puyalto, Angel Matute-Llorente, German
-  Vicente-Rodriguez, Jose~Antonio Casajus, Alex Gonzalez-Aguero, et~al.
-\newblock Effects of active video games on health-related physical fitness and
-  motor competence in children and adolescents with overweight or obesity:
-  systematic review and meta-analysis.
-\newblock \emph{JMIR Serious Games}, 9\penalty0 (4):\penalty0 e29981, 2021.
-
-\bibitem[Dahlquist et~al.(2008)Dahlquist, Weiss, Dillinger~Clendaniel, Law,
-  Ackerman, and McKenna]{dahlquist2008effects}
-Lynnda~M Dahlquist, Karen~E Weiss, Lindsay Dillinger~Clendaniel, Emily~F Law,
-  Claire~Sonntag Ackerman, and Kristine~D McKenna.
-\newblock Effects of videogame distraction using a virtual reality type
-  head-mounted display helmet on cold pressor pain in children.
-\newblock \emph{Journal of Pediatric Psychology}, 34\penalty0 (5):\penalty0
-  574--584, 2008.
-
-\bibitem[De~Swart et~al.(2003)De~Swart, Willemse, Maassen, and
-  Horstink]{de2003improvement}
-Bert~JM De~Swart, SC~Willemse, BAM Maassen, and MWIM Horstink.
-\newblock Improvement of voicing in patients with parkinson’s disease by
-  speech therapy.
-\newblock \emph{Neurology}, 60\penalty0 (3):\penalty0 498--500, 2003.
-
-\bibitem[D{\"o}rner et~al.(2016)D{\"o}rner, Martin-Niedecken, Kocher,
-  Baranowski, Kickmeier-Rust, G{\"o}bel, Wiemeyer, and
-  Gebelein]{dorner2016contributing}
-Ralf D{\"o}rner, Anna~Lisa Martin-Niedecken, Mela Kocher, Tom Baranowski,
-  Michael Kickmeier-Rust, Stefan G{\"o}bel, Josef Wiemeyer, and Paul Gebelein.
-\newblock Contributing disciplines.
-\newblock \emph{Serious Games: Foundations, Concepts and Practice}, pages
-  35--55, 2016.
-
-\bibitem[Doumas et~al.(2021)Doumas, Everard, Dehem, and
-  Lejeune]{doumas2021serious}
-Ioannis Doumas, Gauthier Everard, St{\'e}phanie Dehem, and Thierry Lejeune.
-\newblock Serious games for upper limb rehabilitation after stroke: a
-  meta-analysis.
-\newblock \emph{Journal of neuroengineering and rehabilitation}, 18:\penalty0
-  1--16, 2021.
-
-\bibitem[Dronkers(1996)]{dronkers1996new}
-Nina~F Dronkers.
-\newblock A new brain region for coordinating speech articulation.
-\newblock \emph{Nature}, 384\penalty0 (6605):\penalty0 159--161, 1996.
-
-\bibitem[Duffy et~al.(2021)Duffy, Utianski, and Josephs]{duffy2021primary}
-Joseph~R Duffy, Rene~L Utianski, and Keith~A Josephs.
-\newblock Primary progressive apraxia of speech: From recognition to diagnosis
-  and care.
-\newblock \emph{Aphasiology}, 35\penalty0 (4):\penalty0 560--591, 2021.
-
-\bibitem[et~al.(2024{\natexlab{a}})]{ggmlInto}
-Gerganov et~al.
-\newblock Introduction to ggml.
-\newblock \url{https://huggingface.co/blog/introduction-to-ggml},
-  2024{\natexlab{a}}.
-\newblock URL \url{https://huggingface.co/blog/introduction-to-ggml}.
-
-\bibitem[et~al.(2024{\natexlab{b}})]{whisperCpp}
-Gerganov et~al.
-\newblock Whisper.cpp.
-\newblock \url{https://github.com/ggerganov/whisper.cpp}, 2024{\natexlab{b}}.
-\newblock URL \url{https://github.com/ggerganov/whisper.cpp}.
-
-\bibitem[et~al.(2024{\natexlab{c}})]{WhisperConv}
-Ggerganov et~al.
-\newblock Whisper-conversion.
-\newblock
-  \url{https://github.com/ggerganov/whisper.cpp/blob/master/models/convert-h5-to-ggml.py},
-  2024{\natexlab{c}}.
-\newblock URL
-  \url{https://github.com/ggerganov/whisper.cpp/blob/master/models/convert-h5-to-ggml.py}.
-
-\bibitem[et~al.(2024{\natexlab{d}})]{ggml}
-Ggerganov et~al.
-\newblock Ggml.
-\newblock \url{https://github.com/ggerganov/ggml}, 2024{\natexlab{d}}.
-\newblock URL \url{https://github.com/ggerganov/ggml}.
-
-\bibitem[Gandara-Sambade et~al.(2016)Gandara-Sambade, Souto-Suarez, and
-  Orosa]{gandara2016voice}
-Teresa Gandara-Sambade, Maria~Carmen Souto-Suarez, and Jos{\'e}~A Orosa.
-\newblock Voice recognition software as a real tool during rehabilitation
-  processes.
-\newblock \emph{WSEAS Transactions on Biology and Biomedicine}, 13:\penalty0
-  88--94, 2016.
-
-\bibitem[Gandhi(2022)]{Huggingface}
-Sanchit Gandhi.
-\newblock Fine-tune whisper for multilinguial asr with transformers, 2022.
-\newblock URL \url{https://huggingface.co/blog/fine-tune-whisper}.
-
-\bibitem[Ganzeboom et~al.(2018)Ganzeboom, Bakker, Beijer, Rietveld, and
-  Strik]{TreasureHunters}
-Mario Ganzeboom, Marjoke Bakker, Lilian Beijer, Toni Rietveld, and Helmer
-  Strik.
-\newblock Speech training for neurological patients using a serious game.
-\newblock \emph{British Journal of Educational Technology}, 49\penalty0
-  (4):\penalty0 761--774, 2018.
-
-\bibitem[Glass et~al.(1973)Glass, Gazzaniga, and Premack]{glass1973artificial}
-Andrea~Velletri Glass, Michael~S Gazzaniga, and David Premack.
-\newblock Artificial language training in global aphasics.
-\newblock \emph{Neuropsychologia}, 11\penalty0 (1):\penalty0 95--103, 1973.
-
-\bibitem[Hair et~al.(2021)Hair, Ballard, Markoulli, Monroe, McKechnie, Ahmed,
-  and Gutierrez-Osuna]{hair2021longitudinal}
-Adam Hair, Kirrie~J Ballard, Constantina Markoulli, Penelope Monroe, Jacqueline
-  McKechnie, Beena Ahmed, and Ricardo Gutierrez-Osuna.
-\newblock A longitudinal evaluation of tablet-based child speech therapy with
-  apraxia world.
-\newblock \emph{ACM Transactions on Accessible Computing (TACCESS)},
-  14\penalty0 (1):\penalty0 1--26, 2021.
-
-\bibitem[Hathaliya and Tanwar(2020)]{hathaliya2020exhaustive}
-Jigna~J Hathaliya and Sudeep Tanwar.
-\newblock An exhaustive survey on security and privacy issues in healthcare
-  4.0.
-\newblock \emph{Computer Communications}, 153:\penalty0 311--335, 2020.
-
-\bibitem[Hernandez(2021)]{hernandez2021testing}
-Hugo Hernandez.
-\newblock Testing for normality: What is the best method.
-\newblock \emph{ForsChem Research Reports}, 6\penalty0 (5):\penalty0 1--38,
-  2021.
-
-\bibitem[Hilari et~al.(2010)Hilari, Northcott, Roy, Marshall, Wiggins,
-  Chataway, and Ames]{hilari2010psychological}
+\bibitem{hilari2010psychological}
 Katerina Hilari, Sarah Northcott, Penny Roy, Jane Marshall, Richard~D Wiggins,
   Jeremy Chataway, and Diane Ames.
 \newblock Psychological distress after stroke and aphasia: the first six
   months.
-\newblock \emph{Clinical rehabilitation}, 24\penalty0 (2):\penalty0 181--190,
-  2010.
+\newblock {\em Clinical rehabilitation}, 24(2):181--190, 2010.
 
-\bibitem[Howarth et~al.(2024)Howarth, Vabulas, Connolly, Green, and
-  Smolley]{howarth2024developing}
-Elizabeth Howarth, Geena Vabulas, Sean Connolly, Dawn Green, and Sara Smolley.
-\newblock Developing accessible speech technology with users with dysarthric
-  speech, 2024.
+\bibitem{swain2018congenital}
+Santosh~Kumar Swain, Mahesh~Chandra Sahu, and Asirbad Jena.
+\newblock Congenital choanal atresia: our experiences in a tertiary care
+  teaching hospital in eastern india.
+\newblock {\em Pediatria Polska-Polish Journal of Paediatrics}, 93(1):57--61,
+  2018.
 
-\bibitem[Kelly(2015)]{kelly2015knowledge}
-Lynne Kelly.
-\newblock \emph{Knowledge and power in prehistoric societies: Orality, memory,
-  and the transmission of culture}.
-\newblock Cambridge University Press, 2015.
+\bibitem{duffy2021primary}
+Joseph~R Duffy, Rene~L Utianski, and Keith~A Josephs.
+\newblock Primary progressive apraxia of speech: From recognition to diagnosis
+  and care.
+\newblock {\em Aphasiology}, 35(4):560--591, 2021.
 
-\bibitem[Krause et~al.(2013)Krause, Smeddinck, and Meyer]{ParkinsonGame}
-Markus Krause, Jan Smeddinck, and Ronald Meyer.
-\newblock A digital game to support voice treatment for parkinson's disease.
-\newblock In \emph{CHI'13 extended abstracts on human factors in computing
-  systems}, pages 445--450. 2013.
+\bibitem{wu2020prevalence}
+Cheng Wu, Yingyi Qin, Zhen Lin, Xiyan Yi, Xin Wei, Yiming Ruan, and Jia He.
+\newblock Prevalence and impact of aphasia among patients admitted with acute
+  ischemic stroke.
+\newblock {\em Journal of Stroke and Cerebrovascular Diseases}, 29(5):104764,
+  2020.
 
-\bibitem[Latif et~al.(2021)Latif, Qadir, Qayyum, Usama, and Younis]{9133298}
-Siddique Latif, Junaid Qadir, Adnan Qayyum, Muhammad Usama, and Shahzad Younis.
-\newblock Speech technology for healthcare: Opportunities, challenges, and
-  state of the art.
-\newblock \emph{IEEE Reviews in Biomedical Engineering}, 14:\penalty0 342--356,
-  2021.
-\newblock \doi{10.1109/RBME.2020.3006860}.
+\bibitem{stahl2018efficacy}
+Benjamin Stahl, Bettina Mohr, Verena B{\"u}scher, Felix~R Dreyer, Guglielmo
+  Lucchese, and Friedemann Pulverm{\"u}ller.
+\newblock Efficacy of intensive aphasia therapy in patients with chronic
+  stroke: a randomised controlled trial.
+\newblock {\em Journal of Neurology, Neurosurgery \& Psychiatry},
+  89(6):586--592, 2018.
 
-\bibitem[{Lea Pröstler, BSc.}()]{proestler2023}
+\bibitem{proestler2023}
 {Lea Pröstler, BSc.}
 \newblock {}.
 \newblock Personal communication.
 
-\bibitem[Li et~al.(2021)Li, Liu, Yang, Peng, and Zhou]{li2021survey}
-Zewen Li, Fan Liu, Wenjie Yang, Shouheng Peng, and Jun Zhou.
-\newblock A survey of convolutional neural networks: analysis, applications,
-  and prospects.
-\newblock \emph{IEEE transactions on neural networks and learning systems},
-  33\penalty0 (12):\penalty0 6999--7019, 2021.
-
-\bibitem[Lv et~al.(2015)Lv, Esteve, Chirivella, and Gagliardo]{lv2015game}
-Zhihan Lv, Chantal Esteve, Javier Chirivella, and Pablo Gagliardo.
-\newblock A game based assistive tool for rehabilitation of dysphonic patients.
-\newblock In \emph{2015 3rd IEEE VR International Workshop on Virtual and
-  Augmented Assistive Technology (VAAT)}, pages 9--14. IEEE, 2015.
-
-\bibitem[Mahesh(2020)]{mahesh2020machine}
-Batta Mahesh.
-\newblock Machine learning algorithms-a review.
-\newblock \emph{International Journal of Science and Research
-  (IJSR).[Internet]}, 9\penalty0 (1):\penalty0 381--386, 2020.
-
-\bibitem[Maxwell(1980)]{maxwell1980pairwise}
-Scott~E Maxwell.
-\newblock Pairwise multiple comparisons in repeated measures designs.
-\newblock \emph{Journal of Educational Statistics}, 5\penalty0 (3):\penalty0
-  269--287, 1980.
-
-\bibitem[McCrocklin and Edalatishams(2020)]{mccrocklin2020revisiting}
-Shannon McCrocklin and Id{\'e}e Edalatishams.
-\newblock Revisiting popular speech recognition software for esl speech.
-\newblock \emph{Tesol Quarterly}, 54\penalty0 (4):\penalty0 1086--1097, 2020.
-
-\bibitem[McCulloch and Pitts(1943)]{mcculloch1943logical}
-Warren~S McCulloch and Walter Pitts.
-\newblock A logical calculus of the ideas immanent in nervous activity.
-\newblock \emph{The bulletin of mathematical biophysics}, 5:\penalty0 115--133,
-  1943.
-
-\bibitem[McNeil(2000)]{mcneil2000apraxia}
-MR~McNeil.
-\newblock Apraxia of speech: A treatable disorder of motor planning and
-  programming.
-\newblock \emph{Aphasia and Language, Theory to Practce}, pages 221--266, 2000.
-
-\bibitem[Michael and Chen(2005)]{michael2005serious}
-David~R Michael and Sandra~L Chen.
-\newblock \emph{Serious games: Games that educate, train, and inform}.
-\newblock Muska \& Lipman/Premier-Trade, 2005.
-
-\bibitem[Musicco et~al.(2003)Musicco, Emberti, Nappi, Caltagirone, on~Outcomes
-  of Rehabilitation~of Neurological~Patients, et~al.]{musicco2003early}
+\bibitem{musicco2003early}
 Massimo Musicco, Leonardo Emberti, Giuseppe Nappi, Carlo Caltagirone, Italian
   Multicenter~Study on~Outcomes of Rehabilitation~of Neurological~Patients,
   et~al.
 \newblock Early and long-term outcome of rehabilitation in stroke patients: the
   role of patient characteristics, time of initiation, and duration of
   interventions.
-\newblock \emph{Archives of physical medicine and rehabilitation}, 84\penalty0
-  (4):\penalty0 551--558, 2003.
+\newblock {\em Archives of physical medicine and rehabilitation},
+  84(4):551--558, 2003.
 
-\bibitem[Navarro-Newball et~al.(2014)Navarro-Newball, Loaiza, Oviedo, Castillo,
-  Portilla, Linares, and {\'A}lvarez]{navarro2014talking}
-Andr{\'e}s~Adolfo Navarro-Newball, Diego Loaiza, Claudia Oviedo, Andr{\'e}s
-  Castillo, Anita Portilla, Diego Linares, and G~{\'A}lvarez.
-\newblock Talking to teo: Video game supported speech therapy.
-\newblock \emph{Entertainment Computing}, 5\penalty0 (4):\penalty0 401--412,
-  2014.
+\bibitem{lv2015game}
+Zhihan Lv, Chantal Esteve, Javier Chirivella, and Pablo Gagliardo.
+\newblock A game based assistive tool for rehabilitation of dysphonic patients.
+\newblock In {\em 2015 3rd IEEE VR International Workshop on Virtual and
+  Augmented Assistive Technology (VAAT)}, pages 9--14. IEEE, 2015.
 
-\bibitem[Nitz et~al.(2010)Nitz, Kuys, Isles, and Fu]{nitz2010wii}
-JC~Nitz, Suzanne Kuys, R~Isles, and Stephanie Fu.
-\newblock Is the wii fit™ a new-generation tool for improving balance, health
-  and well-being? a pilot study.
-\newblock \emph{Climacteric}, 13\penalty0 (5):\penalty0 487--491, 2010.
-
-\bibitem[Nuance(2024)]{Nuance}
-Nuance.
-\newblock Nuance homepage, 2024.
-\newblock URL \url{https://www.nuance.com/dragon.html}.
-
-\bibitem[Ogar et~al.(2005)Ogar, Slama, Dronkers, Amici, and Luisa
-  Gorno-Tempini]{ogar2005apraxia}
-Jennifer Ogar, Hilary Slama, Nina Dronkers, Serena Amici, and Maria Luisa
-  Gorno-Tempini.
-\newblock Apraxia of speech: an overview.
-\newblock \emph{Neurocase}, 11\penalty0 (6):\penalty0 427--432, 2005.
-
-\bibitem[Peach and Tonkovich(2004)]{peach2004phonemic}
-Richard~K Peach and John~D Tonkovich.
-\newblock Phonemic characteristics of apraxia of speech resulting from
-  subcortical hemorrhage.
-\newblock \emph{Journal of Communication Disorders}, 37\penalty0 (1):\penalty0
-  77--90, 2004.
-
-\bibitem[Radford et~al.(2023)Radford, Kim, Xu, Brockman, McLeavey, and
-  Sutskever]{radford2023robust}
-Alec Radford, Jong~Wook Kim, Tao Xu, Greg Brockman, Christine McLeavey, and
-  Ilya Sutskever.
-\newblock Robust speech recognition via large-scale weak supervision.
-\newblock In \emph{International conference on machine learning}, pages
-  28492--28518. PMLR, 2023.
-
-\bibitem[Raymer et~al.(2001)Raymer, Bandy, Adair, Schwartz, Williamson, Rothi,
-  and Heilman]{raymer2001effects}
-Anastasia~M Raymer, David Bandy, John~C Adair, Ronald~L Schwartz, David~JG
-  Williamson, Leslie J~Gonzalez Rothi, and Kenneth~M Heilman.
-\newblock Effects of bromocriptine in a patient with crossed nonfluent aphasia:
-  A case report.
-\newblock \emph{Archives of physical medicine and rehabilitation}, 82\penalty0
-  (1):\penalty0 139--144, 2001.
-
-\bibitem[René~Baranyi and Grechenig(2024)]{LEPaper}
-Christoph Aigner] Vanessa Hohenegger Sylvia~Winkler René~Baranyi, Lukas~Weber
-  and Thomas Grechenig.
-\newblock Voice-controlled serious game: Design insights for a speech therapy
-  application (accepted, but not yet published).
-\newblock IEEE, 11 2024.
-
-\bibitem[Rohlfing et~al.(2021)Rohlfing, Buckley, Piraquive, Stepp, and
-  Tracy]{rohlfing2021hey}
+\bibitem{rohlfing2021hey}
 Matthew~L Rohlfing, Daniel~P Buckley, Jacquelyn Piraquive, Cara~E Stepp, and
   Lauren~F Tracy.
 \newblock Hey siri: How effective are common voice recognition systems at
   recognizing dysphonic voices?
-\newblock \emph{The Laryngoscope}, 131\penalty0 (7):\penalty0 1599--1607, 2021.
+\newblock {\em The Laryngoscope}, 131(7):1599--1607, 2021.
 
-\bibitem[Sabe et~al.(1995)Sabe, Salvarezza, Garcia~Cuerva, Leiguarda, and
-  Starkstein]{sabe1995randomized}
-L~Sabe, F~Salvarezza, A~Garcia~Cuerva, R~Leiguarda, and S~Starkstein.
-\newblock A randomized, double-blind, placebocontrolled study of bromocriptine
-  in nonfluent aphasia.
-\newblock \emph{Neurology}, 45\penalty0 (12):\penalty0 2272--2274, 1995.
+\bibitem{smed2003towards}
+Jouni Smed, Harri Hakonen, et~al.
+\newblock {\em Towards a definition of a computer game}.
+\newblock Citeseer, 2003.
 
-\bibitem[Salim(2023)]{salim2023verbal}
-Mammadzada~Sevinj Salim.
-\newblock Verbal and non-verbal communication in linguistics.
-\newblock \emph{International Journal of Innovative Technologies in Social
-  Science}, \penalty0 (2 (38)), 2023.
+\bibitem{susi2007serious}
+Tarja Susi, Mikael Johannesson, and Per Backlund.
+\newblock Serious games: An overview.
+\newblock 2007.
 
-\bibitem[Santos et~al.(2021)Santos, Medeiros, Medeiros, Almeida-Neto, Sena,
-  Cobucci, Oliveira, Cabral, and Dantas]{santos2021active}
+\bibitem{dorner2016contributing}
+Ralf D{\"o}rner, Anna~Lisa Martin-Niedecken, Mela Kocher, Tom Baranowski,
+  Michael Kickmeier-Rust, Stefan G{\"o}bel, Josef Wiemeyer, and Paul Gebelein.
+\newblock Contributing disciplines.
+\newblock {\em Serious Games: Foundations, Concepts and Practice}, pages
+  35--55, 2016.
+
+\bibitem{nitz2010wii}
+JC~Nitz, Suzanne Kuys, R~Isles, and Stephanie Fu.
+\newblock Is the wii fit™ a new-generation tool for improving balance, health
+  and well-being? a pilot study.
+\newblock {\em Climacteric}, 13(5):487--491, 2010.
+
+\bibitem{trout2005using}
+Josh Trout and Karra Zamora.
+\newblock Using dance dance revolution in physical education.
+\newblock {\em Teaching Elementary Physical Education}, 16(5):22--25, 2005.
+
+\bibitem{santos2021active}
 Isis Kelly~dos Santos, Rafaela Catherine da Silva Cunha~de Medeiros, Jason
   Azevedo~de Medeiros, Paulo Francisco~de Almeida-Neto, Dianne Cristina
   Souza~de Sena, Ricardo~Ney Cobucci, Ricardo~Santos Oliveira, Breno Guilherme
@@ -410,158 +122,611 @@ Isis Kelly~dos Santos, Rafaela Catherine da Silva Cunha~de Medeiros, Jason
 \newblock Active video games for improving mental health and physical
   fitness—an alternative for children and adolescents during social
   isolation: an overview.
-\newblock \emph{International journal of environmental research and public
-  health}, 18\penalty0 (4):\penalty0 1641, 2021.
+\newblock {\em International journal of environmental research and public
+  health}, 18(4):1641, 2021.
 
-\bibitem[Scarselli et~al.(2008)Scarselli, Gori, Tsoi, Hagenbuchner, and
-  Monfardini]{scarselli2008graph}
-Franco Scarselli, Marco Gori, Ah~Chung Tsoi, Markus Hagenbuchner, and Gabriele
-  Monfardini.
-\newblock The graph neural network model.
-\newblock \emph{IEEE transactions on neural networks}, 20\penalty0
-  (1):\penalty0 61--80, 2008.
+\bibitem{alpizar2020fat}
+Melchor Alp{\'\i}zar, Tamara~Daniela Frydman, Jos{\'e} de~Jes{\'u}s
+  Res{\'e}ndiz-Rojas, Miguel~Alejandro Trejo-Rangel, and Jes{\'u}s Manuel~De
+  Aldecoa-Castillo.
+\newblock Fat mass index (fmi) as a trustworthy overweight and obesity marker
+  in mexican pediatric population.
+\newblock {\em Children}, 7(3):19, 2020.
 
-\bibitem[Shadiev and Liu(2023)]{shadiev2023review}
-Rustam Shadiev and Jiawen Liu.
-\newblock Review of research on applications of speech recognition technology
-  to assist language learning.
-\newblock \emph{ReCALL}, 35\penalty0 (1):\penalty0 74--88, 2023.
+\bibitem{comeras2021effects}
+Cristina Comeras-Chueca, Jorge Marin-Puyalto, Angel Matute-Llorente, German
+  Vicente-Rodriguez, Jose~Antonio Casajus, Alex Gonzalez-Aguero, et~al.
+\newblock Effects of active video games on health-related physical fitness and
+  motor competence in children and adolescents with overweight or obesity:
+  systematic review and meta-analysis.
+\newblock {\em JMIR Serious Games}, 9(4):e29981, 2021.
 
-\bibitem[Shaphiro and Wilk(1965)]{shaphiro1965analysis}
-S~Shaphiro and MBJB Wilk.
-\newblock An analysis of variance test for normality.
-\newblock \emph{Biometrika}, 52\penalty0 (3):\penalty0 591--611, 1965.
+\bibitem{anderson2002hungry}
+D~Michael Anderson.
+\newblock Hungry red planet: Children’s multimedia nutrition simulation
+  software.
+\newblock In {\em The 130th Annual Meeting of APHA}, 2002.
 
-\bibitem[Sharifzadeh et~al.(2020)Sharifzadeh, Kharrazi, Nazari, Tabesh,
-  Edalati~Khodabandeh, Heidari, and Tara]{sharifzadeh2020health}
+\bibitem{sharifzadeh2020health}
 Nahid Sharifzadeh, Hadi Kharrazi, Elham Nazari, Hamed Tabesh, Maryam
   Edalati~Khodabandeh, Somayeh Heidari, and Mahmood Tara.
 \newblock Health education serious games targeting health care providers,
   patients, and public health users: scoping review.
-\newblock \emph{JMIR serious games}, 8\penalty0 (1):\penalty0 e13459, 2020.
+\newblock {\em JMIR serious games}, 8(1):e13459, 2020.
 
-\bibitem[Singleton(2011)]{singleton2011communication}
-Mike Singleton.
-\newblock Communication between prehistoric and primitive man.
-\newblock \emph{Art and Communication in Pre-Literate Societies}, pages
-  410--416, 2011.
+\bibitem{dahlquist2008effects}
+Lynnda~M Dahlquist, Karen~E Weiss, Lindsay Dillinger~Clendaniel, Emily~F Law,
+  Claire~Sonntag Ackerman, and Kristine~D McKenna.
+\newblock Effects of videogame distraction using a virtual reality type
+  head-mounted display helmet on cold pressor pain in children.
+\newblock {\em Journal of Pediatric Psychology}, 34(5):574--584, 2008.
 
-\bibitem[Small(1994)]{small1994pharmacotherapy}
-Steven~L Small.
-\newblock Pharmacotherapy of aphasia. a critical review.
-\newblock \emph{Stroke}, 25\penalty0 (6):\penalty0 1282--1289, 1994.
+\bibitem{abd2022effectiveness}
+Alaa Abd-Alrazaq, Mohannad Alajlani, Dari Alhuwail, Jens Schneider, Laila
+  Akhu-Zaheya, Arfan Ahmed, and Mowafa Househ.
+\newblock The effectiveness of serious games in alleviating anxiety: systematic
+  review and meta-analysis.
+\newblock {\em JMIR serious games}, 10(1):e29137, 2022.
 
-\bibitem[Smaradottir(2016)]{7881322}
-Berglind~Fjola Smaradottir.
-\newblock The steps of user-centered design in health information technology
-  development: Recommendations from a phd research study.
-\newblock In \emph{2016 International Conference on Computational Science and
-  Computational Intelligence (CSCI)}, pages 116--121, 2016.
-\newblock \doi{10.1109/CSCI.2016.0029}.
+\bibitem{doumas2021serious}
+Ioannis Doumas, Gauthier Everard, St{\'e}phanie Dehem, and Thierry Lejeune.
+\newblock Serious games for upper limb rehabilitation after stroke: a
+  meta-analysis.
+\newblock {\em Journal of neuroengineering and rehabilitation}, 18:1--16, 2021.
 
-\bibitem[Smed et~al.(2003)Smed, Hakonen, et~al.]{smed2003towards}
-Jouni Smed, Harri Hakonen, et~al.
-\newblock \emph{Towards a definition of a computer game}.
-\newblock Citeseer, 2003.
+\bibitem{michael2005serious}
+David~R Michael and Sandra~L Chen.
+\newblock {\em Serious games: Games that educate, train, and inform}.
+\newblock Muska \& Lipman/Premier-Trade, 2005.
 
-\bibitem[S.r.l.(2024)]{anatomy3D}
+\bibitem{anatomy3D}
 Catfish Animation~Studio S.r.l.
 \newblock Anatomy 3d atlas, 2024.
-\newblock URL \url{https://anatomy3datlas.com/}.
 
-\bibitem[Stahl et~al.(2018)Stahl, Mohr, B{\"u}scher, Dreyer, Lucchese, and
-  Pulverm{\"u}ller]{stahl2018efficacy}
-Benjamin Stahl, Bettina Mohr, Verena B{\"u}scher, Felix~R Dreyer, Guglielmo
-  Lucchese, and Friedemann Pulverm{\"u}ller.
-\newblock Efficacy of intensive aphasia therapy in patients with chronic
-  stroke: a randomised controlled trial.
-\newblock \emph{Journal of Neurology, Neurosurgery \& Psychiatry}, 89\penalty0
-  (6):\penalty0 586--592, 2018.
+\bibitem{atakpaassessment}
+Arit~Okonobong ATAKPA, Afaha Nsit, and Justina~Ngozi OWUSHI.
+\newblock Assessment of speech impediment among children: The cause and
+  challenges.
 
-\bibitem[Susi et~al.(2007)Susi, Johannesson, and Backlund]{susi2007serious}
-Tarja Susi, Mikael Johannesson, and Per Backlund.
-\newblock Serious games: An overview.
-\newblock 2007.
+\bibitem{ApraxiaAphasia}
+Australian~Aphasia Association.
+\newblock Aphasia versus apraxia, 2019.
 
-\bibitem[Swain et~al.(2018)Swain, Sahu, and Jena]{swain2018congenital}
-Santosh~Kumar Swain, Mahesh~Chandra Sahu, and Asirbad Jena.
-\newblock Congenital choanal atresia: our experiences in a tertiary care
-  teaching hospital in eastern india.
-\newblock \emph{Pediatria Polska-Polish Journal of Paediatrics}, 93\penalty0
-  (1):\penalty0 57--61, 2018.
+\bibitem{ogar2005apraxia}
+Jennifer Ogar, Hilary Slama, Nina Dronkers, Serena Amici, and Maria Luisa
+  Gorno-Tempini.
+\newblock Apraxia of speech: an overview.
+\newblock {\em Neurocase}, 11(6):427--432, 2005.
 
-\bibitem[Takagi et~al.(2020)Takagi, Sasaki, Kaneko, Itoh, Sasaki, Ueki, and
-  Kuwahara]{takagi2020voice}
-Hiroki Takagi, Shun Sasaki, Megumi Kaneko, Takayuki Itoh, Kazuo Sasaki, Kazuya
-  Ueki, and Meeko Kuwahara.
-\newblock Voice and speech training system for the hearing-impaired children
-  using tablet terminal.
-\newblock In \emph{HCI International 2020-Posters: 22nd International
-  Conference, HCII 2020, Copenhagen, Denmark, July 19--24, 2020, Proceedings,
-  Part III 22}, pages 121--127. Springer, 2020.
+\bibitem{utianski2023update}
+Rene~L Utianski and Keith~A Josephs.
+\newblock An update on apraxia of speech.
+\newblock {\em Current neurology and neuroscience reports}, 23(7):353--359,
+  2023.
 
-\bibitem[Trout and Zamora(2005)]{trout2005using}
-Josh Trout and Karra Zamora.
-\newblock Using dance dance revolution in physical education.
-\newblock \emph{Teaching Elementary Physical Education}, 16\penalty0
-  (5):\penalty0 22--25, 2005.
+\bibitem{ziegler2008apraxia}
+Wolfram Ziegler.
+\newblock Apraxia of speech.
+\newblock {\em Handbook of clinical neurology}, 88:269--285, 2008.
 
-\bibitem[Ulugut et~al.(2022)Ulugut, Stek, Wagemans, Jutten, Keulen, Bouwman,
-  Prins, Lemstra, Krudop, Teunissen, et~al.]{ulugut2022natural}
+\bibitem{mcneil2000apraxia}
+MR~McNeil.
+\newblock Apraxia of speech: A treatable disorder of motor planning and
+  programming.
+\newblock {\em Aphasia and Language, Theory to Practce}, pages 221--266, 2000.
+
+\bibitem{dronkers1996new}
+Nina~F Dronkers.
+\newblock A new brain region for coordinating speech articulation.
+\newblock {\em Nature}, 384(6605):159--161, 1996.
+
+\bibitem{peach2004phonemic}
+Richard~K Peach and John~D Tonkovich.
+\newblock Phonemic characteristics of apraxia of speech resulting from
+  subcortical hemorrhage.
+\newblock {\em Journal of Communication Disorders}, 37(1):77--90, 2004.
+
+\bibitem{clark2003aphasia}
+David~Glenn Clark and Jeffrey~L Cummings.
+\newblock Aphasia.
+\newblock In {\em Neurological disorders}, pages 265--275. Elsevier, 2003.
+
+\bibitem{ulugut2022natural}
 Hulya Ulugut, Simone Stek, Lianne~EE Wagemans, Roos~J Jutten, Maria~Antoinette
   Keulen, Femke~H Bouwman, Niels~D Prins, Afina~W Lemstra, Welmoed Krudop,
   Charlotte~E Teunissen, et~al.
 \newblock The natural history of primary progressive aphasia: beyond aphasia.
-\newblock \emph{Journal of neurology}, 269\penalty0 (3):\penalty0 1375--1385,
-  2022.
+\newblock {\em Journal of neurology}, 269(3):1375--1385, 2022.
 
-\bibitem[Utianski and Josephs(2023)]{utianski2023update}
-Rene~L Utianski and Keith~A Josephs.
-\newblock An update on apraxia of speech.
-\newblock \emph{Current neurology and neuroscience reports}, 23\penalty0
-  (7):\penalty0 353--359, 2023.
+\bibitem{glass1973artificial}
+Andrea~Velletri Glass, Michael~S Gazzaniga, and David Premack.
+\newblock Artificial language training in global aphasics.
+\newblock {\em Neuropsychologia}, 11(1):95--103, 1973.
 
-\bibitem[Wang et~al.(2020)Wang, Li, Song, and Rong]{wang2020influence}
+\bibitem{raymer2001effects}
+Anastasia~M Raymer, David Bandy, John~C Adair, Ronald~L Schwartz, David~JG
+  Williamson, Leslie J~Gonzalez Rothi, and Kenneth~M Heilman.
+\newblock Effects of bromocriptine in a patient with crossed nonfluent aphasia:
+  A case report.
+\newblock {\em Archives of physical medicine and rehabilitation},
+  82(1):139--144, 2001.
+
+\bibitem{sabe1995randomized}
+L~Sabe, F~Salvarezza, A~Garcia~Cuerva, R~Leiguarda, and S~Starkstein.
+\newblock A randomized, double-blind, placebocontrolled study of bromocriptine
+  in nonfluent aphasia.
+\newblock {\em Neurology}, 45(12):2272--2274, 1995.
+
+\bibitem{small1994pharmacotherapy}
+Steven~L Small.
+\newblock Pharmacotherapy of aphasia. a critical review.
+\newblock {\em Stroke}, 25(6):1282--1289, 1994.
+
+\bibitem{balaji2015speech}
+V~Balaji and G~Sadashivappa.
+\newblock Speech disabilities in adults and the suitable speech recognition
+  software tools-a review.
+\newblock In {\em 2015 International Conference on Computing and Network
+  Communications (CoCoNet)}, pages 559--564. IEEE, 2015.
+
+\bibitem{dusing2001adverse}
+Rainer D{\"u}sing.
+\newblock Adverse events, compliance, and changes in therapy.
+\newblock {\em Current Hypertension Reports}, 3(6):488--492, 2001.
+
+\bibitem{jin2008factors}
+Jing Jin, Grant~Edward Sklar, Vernon Min Sen~Oh, and Shu Chuen~Li.
+\newblock Factors affecting therapeutic compliance: A review from the
+  patient’s perspective.
+\newblock {\em Therapeutics and clinical risk management}, 4(1):269--286, 2008.
+
+\bibitem{campbell2001don}
+Rona Campbell, M~Evans, M~Tucker, B~Quilty, Paul Dieppe, and JL~Donovan.
+\newblock Why don't patients do their exercises? understanding non-compliance
+  with physiotherapy in patients with osteoarthritis of the knee.
+\newblock {\em Journal of Epidemiology \& Community Health}, 55(2):132--138,
+  2001.
+
+\bibitem{cochrane2000inhaled}
+Mac~G Cochrane, Mohan~V Bala, Kristen~E Downs, Josephine Mauskopf, and Rami~H
+  Ben-Joseph.
+\newblock Inhaled corticosteroids for asthma therapy: patient compliance,
+  devices, and inhalation technique.
+\newblock {\em Chest}, 117(2):542--550, 2000.
+
+\bibitem{siris2006adherence}
+Ethel~S Siris, Steven~T Harris, Clifford~J Rosen, Charles~E Barr, James~N
+  Arvesen, Thomas~A Abbott, and Stuart Silverman.
+\newblock Adherence to bisphosphonate therapy and fracture rates in
+  osteoporotic women: relationship to vertebral and nonvertebral fractures from
+  2 us claims databases.
+\newblock In {\em Mayo Clinic Proceedings}, volume~81, pages 1013--1022.
+  Elsevier, 2006.
+
+\bibitem{garcia2013adherence}
+Luis-Emilio Garc{\'\i}a-P{\'e}rez, Mar{\'\i}a {\'A}lvarez, Tatiana Dilla,
+  Vicente Gil-Guill{\'e}n, and Domingo Orozco-Beltr{\'a}n.
+\newblock Adherence to therapies in patients with type 2 diabetes.
+\newblock {\em Diabetes Therapy}, 4:175--194, 2013.
+
+\bibitem{suryadevara2021comprehensive}
+Srikanth Suryadevara and Anil Kumar~Yadav Yanamala.
+\newblock A comprehensive overview of artificial neural networks: Evolution,
+  architectures, and applications.
+\newblock {\em Revista de Inteligencia Artificial en Medicina}, 12(1):51--76,
+  2021.
+
+\bibitem{zou2009overview}
+Jinming Zou, Yi~Han, and Sung-Sau So.
+\newblock Overview of artificial neural networks.
+\newblock {\em Artificial neural networks: methods and applications}, pages
+  14--22, 2009.
+
+\bibitem{shanmuganathan2016artificial}
+Subana Shanmuganathan.
+\newblock {\em Artificial neural network modelling: An introduction}.
+\newblock Springer, 2016.
+
+\bibitem{ariyo2024anatomy}
+Oluwatobi Ariyo and Farhana Akter.
+\newblock Anatomy and physiology of the neuron.
+\newblock {\em Neuroscience for Neurosurgeons}, page~72, 2024.
+
+\bibitem{wu2018development}
+Yu-chen Wu and Jun-wen Feng.
+\newblock Development and application of artificial neural network.
+\newblock {\em Wireless Personal Communications}, 102:1645--1656, 2018.
+
+\bibitem{mcculloch1943logical}
+Warren~S McCulloch and Walter Pitts.
+\newblock A logical calculus of the ideas immanent in nervous activity.
+\newblock {\em The bulletin of mathematical biophysics}, 5:115--133, 1943.
+
+\bibitem{wang2020influence}
 Yingying Wang, Yibin Li, Yong Song, and Xuewen Rong.
 \newblock The influence of the activation function in a convolution neural
   network model of facial expression recognition.
-\newblock \emph{Applied Sciences}, 10\penalty0 (5):\penalty0 1897, 2020.
+\newblock {\em Applied Sciences}, 10(5):1897, 2020.
 
-\bibitem[We{\ss}el(2010)]{wessel2010semi}
-Christa We{\ss}el.
-\newblock Semi-strukturierte interviews im software-engineering:
-  Indikationsstellung, vorbereitung, durchf{\"u}hrung und auswertung--ein
-  fall-basiertes tutorium.
-\newblock 2010.
+\bibitem{kiaei2023active}
+Ali~Akbar Kiaei, Mahnaz Boush, Danial Safaei, Sadegh Abadijou, Nima
+  Baselizadeh, Nader Salari, and Masoud Mohammadi.
+\newblock Active identity function as activation function.
+\newblock 2023.
 
-\bibitem[Wilde and Hess(2006)]{wilde2006methodenspektrum}
+\bibitem{tsai2015hardware}
+Chang-Hung Tsai, Yu-Ting Chih, Wing~Hung Wong, and Chen-Yi Lee.
+\newblock A hardware-efficient sigmoid function with adjustable precision for a
+  neural network system.
+\newblock {\em IEEE Transactions on Circuits and Systems II: Express Briefs},
+  62(11):1073--1077, 2015.
+
+\bibitem{bai2022relu}
+Yuhan Bai.
+\newblock Relu-function and derived function review.
+\newblock In {\em SHS Web of Conferences}, volume 144, page 02006. EDP
+  Sciences, 2022.
+
+\bibitem{zheng2015improving}
+Hao Zheng, Zhanlei Yang, Wenju Liu, Jizhong Liang, and Yanpeng Li.
+\newblock Improving deep neural networks using softplus units.
+\newblock In {\em 2015 International joint conference on neural networks
+  (IJCNN)}, pages 1--4. IEEE, 2015.
+
+\bibitem{ibnu2019determining}
+Choldun R~Muh Ibnu, Judhi Santoso, and Kridanto Surendro.
+\newblock Determining the neural network topology: A review.
+\newblock In {\em Proceedings of the 2019 8th International Conference on
+  Software and Computer Applications}, pages 357--362, 2019.
+
+\bibitem{razavi2011new}
+Saman Razavi and Bryan~A Tolson.
+\newblock A new formulation for feedforward neural networks.
+\newblock {\em IEEE Transactions on neural networks}, 22(10):1588--1598, 2011.
+
+\bibitem{salehinejad2017recent}
+Hojjat Salehinejad, Sharan Sankar, Joseph Barfett, Errol Colak, and Shahrokh
+  Valaee.
+\newblock Recent advances in recurrent neural networks.
+\newblock {\em arXiv preprint arXiv:1801.01078}, 2017.
+
+\bibitem{james2023unsupervised}
+Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, and Jonathan
+  Taylor.
+\newblock Unsupervised learning.
+\newblock In {\em An introduction to statistical learning: with applications in
+  Python}, pages 503--556. Springer, 2023.
+
+\bibitem{wang2020supervised}
+Xiangwen Wang, Xianghong Lin, and Xiaochao Dang.
+\newblock Supervised learning in spiking neural networks: A review of
+  algorithms and evaluations.
+\newblock {\em Neural Networks}, 125:258--280, 2020.
+
+\bibitem{mahesh2020machine}
+Batta Mahesh.
+\newblock Machine learning algorithms-a review.
+\newblock {\em International Journal of Science and Research
+  (IJSR).[Internet]}, 9(1):381--386, 2020.
+
+\bibitem{borisov2022deep}
+Vadim Borisov, Tobias Leemann, Kathrin Se{\ss}ler, Johannes Haug, Martin
+  Pawelczyk, and Gjergji Kasneci.
+\newblock Deep neural networks and tabular data: A survey.
+\newblock {\em IEEE transactions on neural networks and learning systems},
+  2022.
+
+\bibitem{li2021survey}
+Zewen Li, Fan Liu, Wenjie Yang, Shouheng Peng, and Jun Zhou.
+\newblock A survey of convolutional neural networks: analysis, applications,
+  and prospects.
+\newblock {\em IEEE transactions on neural networks and learning systems},
+  33(12):6999--7019, 2021.
+
+\bibitem{scarselli2008graph}
+Franco Scarselli, Marco Gori, Ah~Chung Tsoi, Markus Hagenbuchner, and Gabriele
+  Monfardini.
+\newblock The graph neural network model.
+\newblock {\em IEEE transactions on neural networks}, 20(1):61--80, 2008.
+
+\bibitem{yamazaki2022spiking}
+Kashu Yamazaki, Viet-Khoa Vo-Ho, Darshan Bulsara, and Ngan Le.
+\newblock Spiking neural networks and their applications: A review.
+\newblock {\em Brain Sciences}, 12(7):863, 2022.
+
+\bibitem{9133298}
+Siddique Latif, Junaid Qadir, Adnan Qayyum, Muhammad Usama, and Shahzad Younis.
+\newblock Speech technology for healthcare: Opportunities, challenges, and
+  state of the art.
+\newblock {\em IEEE Reviews in Biomedical Engineering}, 14:342--356, 2021.
+
+\bibitem{radford2023robust}
+Alec Radford, Jong~Wook Kim, Tao Xu, Greg Brockman, Christine McLeavey, and
+  Ilya Sutskever.
+\newblock Robust speech recognition via large-scale weak supervision.
+\newblock In {\em International conference on machine learning}, pages
+  28492--28518. PMLR, 2023.
+
+\bibitem{howarth2024developing}
+Elizabeth Howarth, Geena Vabulas, Sean Connolly, Dawn Green, and Sara Smolley.
+\newblock Developing accessible speech technology with users with dysarthric
+  speech, 2024.
+
+\bibitem{mccrocklin2020revisiting}
+Shannon McCrocklin and Id{\'e}e Edalatishams.
+\newblock Revisiting popular speech recognition software for esl speech.
+\newblock {\em Tesol Quarterly}, 54(4):1086--1097, 2020.
+
+\bibitem{shadiev2023review}
+Rustam Shadiev and Jiawen Liu.
+\newblock Review of research on applications of speech recognition technology
+  to assist language learning.
+\newblock {\em ReCALL}, 35(1):74--88, 2023.
+
+\bibitem{Nuance}
+Nuance.
+\newblock Nuance homepage, 2024.
+
+\bibitem{gandara2016voice}
+Teresa Gandara-Sambade, Maria~Carmen Souto-Suarez, and Jos{\'e}~A Orosa.
+\newblock Voice recognition software as a real tool during rehabilitation
+  processes.
+\newblock {\em WSEAS Transactions on Biology and Biomedicine}, 13:88--94, 2016.
+
+\bibitem{9255313}
+Srijith Chandran, Ahmed Al-Sa’di, and Esraa Ahmad.
+\newblock Exploring user centered design in healthcare: A literature review.
+\newblock In {\em 2020 4th International Symposium on Multidisciplinary Studies
+  and Innovative Technologies (ISMSIT)}, pages 1--8, 2020.
+
+\bibitem{7881322}
+Berglind~Fjola Smaradottir.
+\newblock The steps of user-centered design in health information technology
+  development: Recommendations from a phd research study.
+\newblock In {\em 2016 International Conference on Computational Science and
+  Computational Intelligence (CSCI)}, pages 116--121, 2016.
+
+\bibitem{still2017fundamentals}
+Brian Still and Kate Crane.
+\newblock {\em Fundamentals of user-centered design: A practical approach}.
+\newblock CRC press, 2017.
+
+\bibitem{garrett2022elements}
+Jesse~James Garrett.
+\newblock {\em The elements of user experience}.
+\newblock 2022.
+
+\bibitem{colborne2017simple}
+Giles Colborne.
+\newblock {\em Simple and usable web, mobile, and interaction design}.
+\newblock New Riders, 2017.
+
+\bibitem{cooper199914}
+Alan Cooper.
+\newblock 14 principles of polite apps.
+\newblock {\em Visual Basic Programmers Journal (June)}, 62:66, 1999.
+
+\bibitem{jones2004designer}
+Debra~G Jones, Mica~R Endsley, Mark Bolstad, and Gil Estes.
+\newblock The designer's situation awareness toolkit: Support for user-centered
+  design.
+\newblock In {\em Proceedings of the human factors and ergonomics society
+  annual meeting}, volume~48, pages 653--657. SAGE Publications Sage CA: Los
+  Angeles, CA, 2004.
+
+\bibitem{morgan2004360}
+Michael Morgan and Laura Borns.
+\newblock 360 degrees of usability.
+\newblock In {\em CHI'04 Extended Abstracts on Human Factors in Computing
+  Systems}, pages 795--809, 2004.
+
+\bibitem{TreasureHunters}
+Mario Ganzeboom, Marjoke Bakker, Lilian Beijer, Toni Rietveld, and Helmer
+  Strik.
+\newblock Speech training for neurological patients using a serious game.
+\newblock {\em British Journal of Educational Technology}, 49(4):761--774,
+  2018.
+
+\bibitem{Phonak}
+Sandra Cano, Victor Pe{\~n}e{\~n}ory, C{\'e}sar~A Collazos, Habib~M Fardoun,
+  and Daniyal~M Alghazzawi.
+\newblock Training with phonak: Serious game as support in auditory--verbal
+  therapy for children with cochlear implants.
+\newblock In {\em Proceedings of the 3rd 2015 Workshop on ICTs for improving
+  Patients Rehabilitation Research Techniques}, pages 22--25, 2015.
+
+\bibitem{ParkinsonGame}
+Markus Krause, Jan Smeddinck, and Ronald Meyer.
+\newblock A digital game to support voice treatment for parkinson's disease.
+\newblock In {\em CHI'13 extended abstracts on human factors in computing
+  systems}, pages 445--450. 2013.
+
+\bibitem{hair2021longitudinal}
+Adam Hair, Kirrie~J Ballard, Constantina Markoulli, Penelope Monroe, Jacqueline
+  McKechnie, Beena Ahmed, and Ricardo Gutierrez-Osuna.
+\newblock A longitudinal evaluation of tablet-based child speech therapy with
+  apraxia world.
+\newblock {\em ACM Transactions on Accessible Computing (TACCESS)},
+  14(1):1--26, 2021.
+
+\bibitem{takagi2020voice}
+Hiroki Takagi, Shun Sasaki, Megumi Kaneko, Takayuki Itoh, Kazuo Sasaki, Kazuya
+  Ueki, and Meeko Kuwahara.
+\newblock Voice and speech training system for the hearing-impaired children
+  using tablet terminal.
+\newblock In {\em HCI International 2020-Posters: 22nd International
+  Conference, HCII 2020, Copenhagen, Denmark, July 19--24, 2020, Proceedings,
+  Part III 22}, pages 121--127. Springer, 2020.
+
+\bibitem{navarro2014talking}
+Andr{\'e}s~Adolfo Navarro-Newball, Diego Loaiza, Claudia Oviedo, Andr{\'e}s
+  Castillo, Anita Portilla, Diego Linares, and G~{\'A}lvarez.
+\newblock Talking to teo: Video game supported speech therapy.
+\newblock {\em Entertainment Computing}, 5(4):401--412, 2014.
+
+\bibitem{de2003improvement}
+Bert~JM De~Swart, SC~Willemse, BAM Maassen, and MWIM Horstink.
+\newblock Improvement of voicing in patients with parkinson’s disease by
+  speech therapy.
+\newblock {\em Neurology}, 60(3):498--500, 2003.
+
+\bibitem{LEPaper}
+Christoph Aigner] Vanessa Hohenegger Sylvia~Winkler René~Baranyi, Lukas~Weber
+  and Thomas Grechenig.
+\newblock Voice-controlled serious game: Design insights for a speech therapy
+  application (accepted, but not yet published).
+\newblock IEEE, 11 2024.
+
+\bibitem{Flip}
+Flipgrid.
+\newblock \url{https://info.flip.com/en-us.html}.
+\newblock Accessed: 2024-09-13.
+
+\bibitem{wilde2006methodenspektrum}
 Thomas Wilde and Thomas Hess.
 \newblock Methodenspektrum der wirtschaftsinformatik: {\"U}berblick und
   portfoliobildung.
 \newblock Technical report, Arbeitsbericht, 2006.
 
-\bibitem[Wu et~al.(2020)Wu, Qin, Lin, Yi, Wei, Ruan, and He]{wu2020prevalence}
-Cheng Wu, Yingyi Qin, Zhen Lin, Xiyan Yi, Xin Wei, Yiming Ruan, and Jia He.
-\newblock Prevalence and impact of aphasia among patients admitted with acute
-  ischemic stroke.
-\newblock \emph{Journal of Stroke and Cerebrovascular Diseases}, 29\penalty0
-  (5):\penalty0 104764, 2020.
+\bibitem{shaphiro1965analysis}
+S~Shaphiro and MBJB Wilk.
+\newblock An analysis of variance test for normality.
+\newblock {\em Biometrika}, 52(3):591--611, 1965.
 
-\bibitem[Yamazaki et~al.(2022)Yamazaki, Vo-Ho, Bulsara, and
-  Le]{yamazaki2022spiking}
-Kashu Yamazaki, Viet-Khoa Vo-Ho, Darshan Bulsara, and Ngan Le.
-\newblock Spiking neural networks and their applications: A review.
-\newblock \emph{Brain Sciences}, 12\penalty0 (7):\penalty0 863, 2022.
+\bibitem{hernandez2021testing}
+Hugo Hernandez.
+\newblock Testing for normality: What is the best method.
+\newblock {\em ForsChem Research Reports}, 6(5):1--38, 2021.
 
-\bibitem[Ziegler(2008)]{ziegler2008apraxia}
-Wolfram Ziegler.
-\newblock Apraxia of speech.
-\newblock \emph{Handbook of clinical neurology}, 88:\penalty0 269--285, 2008.
+\bibitem{maxwell1980pairwise}
+Scott~E Maxwell.
+\newblock Pairwise multiple comparisons in repeated measures designs.
+\newblock {\em Journal of Educational Statistics}, 5(3):269--287, 1980.
 
-\bibitem[Zou et~al.(2009)Zou, Han, and So]{zou2009overview}
-Jinming Zou, Yi~Han, and Sung-Sau So.
-\newblock Overview of artificial neural networks.
-\newblock \emph{Artificial neural networks: methods and applications}, pages
-  14--22, 2009.
+\bibitem{etikan2017sampling}
+Ilker Etikan and Kabiru Bala.
+\newblock Sampling and sampling methods.
+\newblock {\em Biometrics \& Biostatistics International Journal}, 5(6):00149,
+  2017.
+
+\bibitem{berndt2020sampling}
+Andrea~E Berndt.
+\newblock Sampling methods.
+\newblock {\em Journal of Human Lactation}, 36(2):224--226, 2020.
+
+\bibitem{Madoo}
+Madoo.
+\newblock \url{https://madoo.net/}.
+\newblock Accessed: 2024-09-13.
+
+\bibitem{hathaliya2020exhaustive}
+Jigna~J Hathaliya and Sudeep Tanwar.
+\newblock An exhaustive survey on security and privacy issues in healthcare
+  4.0.
+\newblock {\em Computer Communications}, 153:311--335, 2020.
+
+\bibitem{Huggingface}
+Sanchit Gandhi.
+\newblock Fine-tune whisper for multilinguial asr with transformers, 2022.
+
+\bibitem{ggml}
+Ggerganov et~al.
+\newblock Ggml.
+\newblock \url{https://github.com/ggerganov/ggml}, 2024.
+
+\bibitem{ggmlInto}
+Gerganov et~al.
+\newblock Introduction to ggml.
+\newblock \url{https://huggingface.co/blog/introduction-to-ggml}, 2024.
+
+\bibitem{whisperCpp}
+Gerganov et~al.
+\newblock Whisper.cpp.
+\newblock \url{https://github.com/ggerganov/whisper.cpp}, 2024.
+
+\bibitem{WhisperConv}
+Ggerganov et~al.
+\newblock Whisper-conversion.
+\newblock
+  \url{https://github.com/ggerganov/whisper.cpp/blob/master/models/convert-h5-to-ggml.py},
+  2024.
+
+\bibitem{unityStore}
+Unity Technologies.
+\newblock Unity asset store.
+\newblock \url{https://assetstore.unity.com/}, 2024.
+
+\bibitem{lipImages}
+Maria Meier.
+\newblock Lip movement images.
+\newblock \url{https://ru.pinterest.com/pin/643592603000351080/}, 2022.
+
+\bibitem{License}
+Creative commons license.
+\newblock \url{https://creativecommons.org/licenses/by-sa/4.0/deed.en}.
+\newblock Accessed: 2024-09-13.
+
+\bibitem{childImages}
+Katharina Vesper.
+\newblock Child mode images.
+\newblock \url{https://madoo.net/autor/thari/}, 2018.
+
+\bibitem{assetSpeechBubble}
+RAFMANIX.
+\newblock Speech bubble asset.
+\newblock
+  \url{https://assetstore.unity.com/packages/2d/environments/2d-atlas-speech-bubbles-alphabet-numbers-88398},
+  2021.
+
+\bibitem{assetArcadeBGM}
+B.G.M.
+\newblock Arcade bgm asset.
+\newblock
+  \url{https://assetstore.unity.com/packages/audio/music/arcade-game-bgm-17-210775},
+  2022.
+
+\bibitem{assetBasicIcons}
+Kandles.
+\newblock Basic icon asset.
+\newblock
+  \url{https://assetstore.unity.com/packages/2d/gui/icons/basic-icons-139575},
+  2019.
+
+\bibitem{assetCasualBGM}
+B.G.M.
+\newblock Casual bgm.
+\newblock
+  \url{https://assetstore.unity.com/packages/audio/music/casual-game-bgm-5-135943},
+  2019.
+
+\bibitem{assetCasualGameSounds}
+Dustyroom.
+\newblock Casual game sounds.
+\newblock
+  \url{https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116},
+  2024.
+
+\bibitem{assetPressStart}
+CodeMan38.
+\newblock Press start 2 play font.
+\newblock \url{https://fonts.google.com/specimen/Press+Start+2P/about}, 2024.
+
+\bibitem{assetPixelAdventure1}
+Pixel Frog.
+\newblock Pixel adventure 1 asset.
+\newblock
+  \url{https://assetstore.unity.com/packages/2d/characters/pixel-adventure-1-155360},
+  2019.
+
+\bibitem{LogopedicStatistic}
+Statistik Austria.
+\newblock Jahrbuch der gesundheitsstatistik, 2022.
+
+\bibitem{wessel2010semi}
+Christa We{\ss}el.
+\newblock Semi-strukturierte interviews im software-engineering:
+  Indikationsstellung, vorbereitung, durchf{\"u}hrung und auswertung--ein
+  fall-basiertes tutorium.
+\newblock 2010.
 
 \end{thebibliography}

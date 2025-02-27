@@ -1,7 +1,7 @@
 This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: thesis.aux
-The style file: plainnat.bst
+The style file: unsrt.bst
 Database file #1: intro.bib
 Warning--entry type for "anatomy3D" isn't style-file defined
 --line 473 of file intro.bib
@@ -25,84 +25,82 @@ Warning--entry type for "LogopedicStatistic" isn't style-file defined
 --line 729 of file intro.bib
 Warning--entry type for "ApraxiaAphasia" isn't style-file defined
 --line 760 of file intro.bib
-Name 1 in "René Baranyi, Lukas Weber, Christoph Aigner], Vanessa Hohenegger, Sylvia Winkler, and Thomas Grechenig" has a comma at the end for entry LEPaper
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "René Baranyi, Lukas Weber, Christoph Aigner], Vanessa Hohenegger, Sylvia Winkler, and Thomas Grechenig" for entry LEPaper
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "René Baranyi, Lukas Weber, Christoph Aigner], Vanessa Hohenegger, Sylvia Winkler, and Thomas Grechenig" for entry LEPaper
-while executing---line 1347 of file plainnat.bst
-Name 1 in "René Baranyi, Lukas Weber, Christoph Aigner], Vanessa Hohenegger, Sylvia Winkler, and Thomas Grechenig" has a comma at the end for entry LEPaper
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "René Baranyi, Lukas Weber, Christoph Aigner], Vanessa Hohenegger, Sylvia Winkler, and Thomas Grechenig" for entry LEPaper
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "René Baranyi, Lukas Weber, Christoph Aigner], Vanessa Hohenegger, Sylvia Winkler, and Thomas Grechenig" for entry LEPaper
-while executing---line 1347 of file plainnat.bst
-Warning--to sort, need author or key in Flip
-Warning--to sort, need author or key in Madoo
-Warning--to sort, need author or key in License
-Warning--empty year in Flip
-Warning--empty year in License
-Warning--empty year in Madoo
-Warning--empty journal in atakpaassessment
-Warning--empty year in atakpaassessment
-Warning--empty year in atakpaassessment
-Warning--empty publisher in ParkinsonGame
-Warning--empty year in proestler2023
-Name 1 in "René Baranyi, Lukas Weber, Christoph Aigner], Vanessa Hohenegger, Sylvia Winkler, and Thomas Grechenig" has a comma at the end for entry LEPaper
-while executing---line 1429 of file plainnat.bst
-Too many commas in name 1 of "René Baranyi, Lukas Weber, Christoph Aigner], Vanessa Hohenegger, Sylvia Winkler, and Thomas Grechenig" for entry LEPaper
-while executing---line 1429 of file plainnat.bst
-Too many commas in name 1 of "René Baranyi, Lukas Weber, Christoph Aigner], Vanessa Hohenegger, Sylvia Winkler, and Thomas Grechenig" for entry LEPaper
-while executing---line 1429 of file plainnat.bst
-Name 1 in "René Baranyi, Lukas Weber, Christoph Aigner], Vanessa Hohenegger, Sylvia Winkler, and Thomas Grechenig" has a comma at the end for entry LEPaper
-while executing---line 1429 of file plainnat.bst
-Too many commas in name 1 of "René Baranyi, Lukas Weber, Christoph Aigner], Vanessa Hohenegger, Sylvia Winkler, and Thomas Grechenig" for entry LEPaper
-while executing---line 1429 of file plainnat.bst
-Too many commas in name 1 of "René Baranyi, Lukas Weber, Christoph Aigner], Vanessa Hohenegger, Sylvia Winkler, and Thomas Grechenig" for entry LEPaper
-while executing---line 1429 of file plainnat.bst
-Warning--empty booktitle in LEPaper
+Warning--entry type for "unityStore" isn't style-file defined
+--line 980 of file intro.bib
+Warning--entry type for "lipImages" isn't style-file defined
+--line 989 of file intro.bib
+Warning--entry type for "childImages" isn't style-file defined
+--line 998 of file intro.bib
+Warning--entry type for "assetSpeechBubble" isn't style-file defined
+--line 1007 of file intro.bib
+Warning--entry type for "assetArcadeBGM" isn't style-file defined
+--line 1016 of file intro.bib
+Warning--entry type for "assetBasicIcons" isn't style-file defined
+--line 1025 of file intro.bib
+Warning--entry type for "assetCasualBGM" isn't style-file defined
+--line 1034 of file intro.bib
+Warning--entry type for "assetCasualGameSounds" isn't style-file defined
+--line 1043 of file intro.bib
+Warning--entry type for "assetPressStart" isn't style-file defined
+--line 1052 of file intro.bib
+Warning--entry type for "assetPixelAdventure1" isn't style-file defined
+--line 1061 of file intro.bib
 Warning--there's a number but no volume in salim2023verbal
 Warning--empty journal in susi2007serious
+Warning--empty journal in atakpaassessment
+Warning--empty year in atakpaassessment
+Warning--can't use both volume and number fields in siris2006adherence
+Warning--empty journal in kiaei2023active
+Warning--empty publisher in garrett2022elements
+Warning--can't use both volume and number fields in jones2004designer
+Warning--empty publisher in ParkinsonGame
+Name 1 in "René Baranyi, Lukas Weber, Christoph Aigner], Vanessa Hohenegger, Sylvia Winkler, and Thomas Grechenig" has a comma at the end for entry LEPaper
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "René Baranyi, Lukas Weber, Christoph Aigner], Vanessa Hohenegger, Sylvia Winkler, and Thomas Grechenig" for entry LEPaper
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "René Baranyi, Lukas Weber, Christoph Aigner], Vanessa Hohenegger, Sylvia Winkler, and Thomas Grechenig" for entry LEPaper
+while executing---line 944 of file unsrt.bst
+Warning--empty booktitle in LEPaper
 Warning--empty journal in wessel2010semi
-You've used 82 entries,
-            2773 wiz_defined-function locations,
-            1074 strings with 21382 characters,
-and the built_in function-call counts, 41145 in all, are:
-= -- 3613
-> -- 2653
-< -- 49
-+ -- 907
-- -- 822
-* -- 3449
-:= -- 6277
-add.period$ -- 257
-call.type$ -- 82
-change.case$ -- 514
-chr.to.int$ -- 79
-cite$ -- 182
-duplicate$ -- 1744
-empty$ -- 3217
-format.name$ -- 927
-if$ -- 8601
-int.to.chr$ -- 4
-int.to.str$ -- 1
-missing$ -- 70
-newline$ -- 423
-num.names$ -- 316
-pop$ -- 1081
+You've used 120 entries,
+            1791 wiz_defined-function locations,
+            1113 strings with 25709 characters,
+and the built_in function-call counts, 28201 in all, are:
+= -- 2499
+> -- 1303
+< -- 24
++ -- 489
+- -- 369
+* -- 1864
+:= -- 4368
+add.period$ -- 364
+call.type$ -- 120
+change.case$ -- 114
+chr.to.int$ -- 0
+cite$ -- 131
+duplicate$ -- 1212
+empty$ -- 2794
+format.name$ -- 369
+if$ -- 6328
+int.to.chr$ -- 0
+int.to.str$ -- 120
+missing$ -- 102
+newline$ -- 596
+num.names$ -- 117
+pop$ -- 417
 preamble$ -- 1
-purify$ -- 434
+purify$ -- 0
 quote$ -- 0
-skip$ -- 1403
+skip$ -- 602
 stack$ -- 0
-substring$ -- 1515
-swap$ -- 198
-text.length$ -- 13
+substring$ -- 1879
+swap$ -- 309
+text.length$ -- 24
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 887
-warning$ -- 15
-while$ -- 353
-width$ -- 0
-write$ -- 1058
-(There were 13 error messages)
+type$ -- 0
+warning$ -- 11
+while$ -- 279
+width$ -- 123
+write$ -- 1273
+(There were 4 error messages)

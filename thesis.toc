@@ -18,144 +18,143 @@
 \contentsline {chapter}{\chapternumberline {1}Introduction}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Problem Description}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Expected Results}{3}{section.1.2}%
+\contentsline {paragraph}{Methodology Overview}{4}{section*.7}%
 \contentsline {section}{\numberline {1.3}Structure}{4}{section.1.3}%
-\contentsline {section}{\numberline {1.4}Summary}{4}{section.1.4}%
+\contentsline {section}{\numberline {1.4}Summary}{5}{section.1.4}%
 \contentsline {chapter}{\chapternumberline {2}Theoretical Background}{7}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Serious Games}{7}{section.2.1}%
-\contentsline {paragraph}{Healthcare Games}{8}{section*.7}%
+\contentsline {paragraph}{Healthcare Games}{8}{section*.8}%
 \contentsline {section}{\numberline {2.2}Speech Impediments}{10}{section.2.2}%
 \contentsline {subsection}{\numberline {2.2.1}Apraxia}{10}{subsection.2.2.1}%
-\contentsline {paragraph}{Etiology}{11}{section*.9}%
-\contentsline {paragraph}{Neuroanatomy}{11}{section*.10}%
-\contentsline {paragraph}{Progression}{11}{section*.11}%
-\contentsline {paragraph}{Demographic}{11}{section*.12}%
-\contentsline {paragraph}{Therapy}{12}{section*.13}%
+\contentsline {paragraph}{Etiology}{11}{section*.10}%
+\contentsline {paragraph}{Neuroanatomy}{11}{section*.11}%
+\contentsline {paragraph}{Progression}{11}{section*.12}%
+\contentsline {paragraph}{Demographic}{11}{section*.13}%
+\contentsline {paragraph}{Therapy}{12}{section*.14}%
 \contentsline {subsection}{\numberline {2.2.2}Aphasia}{12}{subsection.2.2.2}%
-\contentsline {paragraph}{Etiology}{13}{section*.14}%
-\contentsline {paragraph}{Neuroanatomy}{13}{section*.15}%
-\contentsline {paragraph}{Progression}{13}{section*.16}%
-\contentsline {paragraph}{Demographic}{13}{section*.17}%
-\contentsline {paragraph}{Therapy}{13}{section*.18}%
+\contentsline {paragraph}{Etiology}{13}{section*.15}%
+\contentsline {paragraph}{Neuroanatomy}{13}{section*.16}%
+\contentsline {paragraph}{Progression}{13}{section*.17}%
+\contentsline {paragraph}{Demographic}{13}{section*.18}%
+\contentsline {paragraph}{Therapy}{13}{section*.19}%
 \contentsline {subsection}{\numberline {2.2.3}Other speech impediments}{14}{subsection.2.2.3}%
-\contentsline {section}{\numberline {2.3}Neural Networks}{15}{section.2.3}%
-\contentsline {paragraph}{The human brain}{15}{section*.19}%
-\contentsline {paragraph}{Artificial neural network}{15}{section*.21}%
-\contentsline {subparagraph}{Node Character}{16}{section*.22}%
-\contentsline {subparagraph}{Network Topology}{18}{section*.25}%
-\contentsline {subparagraph}{Learning}{19}{section*.27}%
-\contentsline {paragraph}{Variations}{20}{section*.28}%
-\contentsline {subparagraph}{Deep neural network}{20}{section*.29}%
-\contentsline {subparagraph}{Convolutional neural network}{20}{section*.30}%
-\contentsline {subparagraph}{Graph neural network}{21}{section*.31}%
-\contentsline {subparagraph}{Spiking neural network}{21}{section*.32}%
-\contentsline {section}{\numberline {2.4}Voice Recognition}{21}{section.2.4}%
-\contentsline {section}{\numberline {2.5}User Centered Design}{22}{section.2.5}%
-\contentsline {section}{\numberline {2.6}Summary}{23}{section.2.6}%
-\contentsline {chapter}{\chapternumberline {3}State of the Art}{25}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Speech Rehabilitation Games}{25}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}Treasure Hunters}{25}{subsection.3.1.1}%
-\contentsline {paragraph}{Game Description}{26}{section*.33}%
-\contentsline {paragraph}{Results}{26}{section*.34}%
-\contentsline {subsection}{\numberline {3.1.2}Training with Phonak}{27}{subsection.3.1.2}%
-\contentsline {paragraph}{Game Description}{27}{section*.36}%
-\contentsline {paragraph}{Results}{28}{section*.37}%
-\contentsline {subsection}{\numberline {3.1.3}Opera Singer}{28}{subsection.3.1.3}%
-\contentsline {paragraph}{Game Description}{28}{section*.39}%
-\contentsline {paragraph}{Results}{29}{section*.40}%
-\contentsline {subsection}{\numberline {3.1.4}Apraxia World}{29}{subsection.3.1.4}%
-\contentsline {paragraph}{Game Description}{29}{section*.42}%
-\contentsline {paragraph}{Results}{30}{section*.43}%
-\contentsline {subsection}{\numberline {3.1.5}Flying Rocket}{31}{subsection.3.1.5}%
-\contentsline {paragraph}{Game Description}{31}{section*.45}%
-\contentsline {paragraph}{Results}{31}{section*.46}%
-\contentsline {subsection}{\numberline {3.1.6}Talking to Teo}{31}{subsection.3.1.6}%
-\contentsline {paragraph}{Game Description}{32}{section*.48}%
-\contentsline {paragraph}{Results}{32}{section*.49}%
-\contentsline {subsection}{\numberline {3.1.7}This work}{33}{subsection.3.1.7}%
-\contentsline {paragraph}{Previous results}{34}{section*.51}%
-\contentsline {subsection}{\numberline {3.1.8}Summary}{34}{subsection.3.1.8}%
-\contentsline {paragraph}{Recommendations}{35}{section*.53}%
-\contentsline {section}{\numberline {3.2}Voice Recognition Software}{35}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}WhisperAI}{35}{subsection.3.2.1}%
-\contentsline {paragraph}{Network architecture}{36}{section*.54}%
-\contentsline {paragraph}{Training}{36}{section*.56}%
-\contentsline {paragraph}{Results}{36}{section*.57}%
-\contentsline {subsection}{\numberline {3.2.2}VoiceItt}{36}{subsection.3.2.2}%
-\contentsline {paragraph}{Results}{36}{section*.58}%
-\contentsline {subsection}{\numberline {3.2.3}Dragon NaturallySpeaking}{37}{subsection.3.2.3}%
-\contentsline {paragraph}{Results}{37}{section*.59}%
-\contentsline {subsection}{\numberline {3.2.4}Summary}{37}{subsection.3.2.4}%
-\contentsline {paragraph}{Recommendation}{37}{section*.60}%
-\contentsline {chapter}{\chapternumberline {4}Methodological Approach}{39}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Declaration of personal interviews with experts}{39}{section.4.1}%
-\contentsline {section}{\numberline {4.2}General course of action}{39}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Phase 1: Research}{39}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}Phase 2: Development}{41}{subsection.4.2.2}%
-\contentsline {subsection}{\numberline {4.2.3}Phase 3: Evaluation}{41}{subsection.4.2.3}%
-\contentsline {section}{\numberline {4.3}Answering RQ1}{42}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Answering RQ2}{42}{section.4.4}%
-\contentsline {section}{\numberline {4.5}Answering RQ3}{42}{section.4.5}%
-\contentsline {chapter}{\chapternumberline {5}Results}{45}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Game Description}{45}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Iteration 1}{46}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Iteration 2}{47}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Iteration 3 and 4}{49}{section.5.4}%
-\contentsline {section}{\numberline {5.5}Iteration 5 and 6}{50}{section.5.5}%
-\contentsline {section}{\numberline {5.6}Features}{50}{section.5.6}%
-\contentsline {subsection}{\numberline {5.6.1}Use Case: Play Level}{53}{subsection.5.6.1}%
-\contentsline {subsubsection}{Phonetic level}{54}{section*.64}%
-\contentsline {subsubsection}{Syllable level}{54}{section*.65}%
-\contentsline {subsubsection}{Word level}{54}{section*.66}%
-\contentsline {subsubsection}{Voice recognition}{55}{section*.68}%
-\contentsline {paragraph}{VoiceItt}{56}{section*.69}%
-\contentsline {paragraph}{Dragon NaturallySpeaking}{56}{section*.70}%
-\contentsline {paragraph}{Whisper-API}{57}{section*.71}%
-\contentsline {paragraph}{Whisper-Local}{57}{section*.72}%
-\contentsline {subparagraph}{Adaption}{57}{section*.73}%
-\contentsline {subparagraph}{Adaption Process}{58}{section*.74}%
-\contentsline {subsubsection}{Stress component}{59}{section*.77}%
-\contentsline {subsubsection}{Child Mode}{60}{section*.79}%
-\contentsline {subsubsection}{Pre-defined word list}{61}{section*.81}%
-\contentsline {subsubsection}{Multiple voice recognition softwares}{61}{section*.82}%
-\contentsline {subsection}{\numberline {5.6.2}Use Case: Use additional help}{62}{subsection.5.6.2}%
-\contentsline {subsubsection}{Skip-Button}{62}{section*.83}%
-\contentsline {subsubsection}{Listen-Button}{62}{section*.84}%
-\contentsline {subsubsection}{Record-Button}{63}{section*.85}%
-\contentsline {subsection}{\numberline {5.6.3}Use Case: View High-Scores}{63}{subsection.5.6.3}%
-\contentsline {subsection}{\numberline {5.6.4}Use Case: Change Settings}{64}{subsection.5.6.4}%
-\contentsline {subsection}{\numberline {5.6.5}Use Case: Navigate Game}{64}{subsection.5.6.5}%
-\contentsline {subsubsection}{Start screen}{65}{section*.89}%
-\contentsline {subsubsection}{Level overview screen}{65}{section*.90}%
-\contentsline {subsubsection}{Info screen}{65}{section*.91}%
-\contentsline {subsection}{\numberline {5.6.6}Use Case: Edit category}{67}{subsection.5.6.6}%
-\contentsline {subsection}{\numberline {5.6.7}Use Case: Edit level}{67}{subsection.5.6.7}%
-\contentsline {subsection}{\numberline {5.6.8}Use Case: Review patient performance}{68}{subsection.5.6.8}%
-\contentsline {subsubsection}{Data Log}{69}{section*.95}%
-\contentsline {section}{\numberline {5.7}Game Architecture}{69}{section.5.7}%
-\contentsline {section}{\numberline {5.8}Known Issues}{73}{section.5.8}%
-\contentsline {subsection}{\numberline {5.8.1}Voice Recognition}{73}{subsection.5.8.1}%
-\contentsline {subsection}{\numberline {5.8.2}Export Location}{75}{subsection.5.8.2}%
-\contentsline {section}{\numberline {5.9}Evaluation}{75}{section.5.9}%
-\contentsline {subsection}{\numberline {5.9.1}Process structure}{75}{subsection.5.9.1}%
-\contentsline {subsection}{\numberline {5.9.2}Questionnaire results}{76}{subsection.5.9.2}%
-\contentsline {paragraph}{Positive feedback}{77}{section*.101}%
-\contentsline {paragraph}{Negative feedback}{78}{section*.102}%
-\contentsline {paragraph}{Additional requested features}{79}{section*.103}%
-\contentsline {subsection}{\numberline {5.9.3}Final interview}{80}{subsection.5.9.3}%
-\contentsline {paragraph}{Results of introductory questions}{80}{section*.104}%
-\contentsline {paragraph}{Results of main questions}{81}{section*.105}%
-\contentsline {paragraph}{Results of ending questions}{81}{section*.106}%
-\contentsline {chapter}{\chapternumberline {6}Discussion}{83}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Research Question 1}{83}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Research Question 2}{85}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Research Question 3}{86}{section.6.3}%
-\contentsline {chapter}{\chapternumberline {7}Conclusion and future work}{89}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Conclusion}{89}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Future work}{90}{section.7.2}%
-\contentsline {chapter}{List of Figures}{93}{section*.107}%
-\contentsline {chapter}{List of Tables}{95}{section*.108}%
-\contentsline {chapter}{Bibliography}{97}{chapter*.109}%
-\contentsline {chapter}{Appendix}{105}{chapter*.110}%
-\contentsline {section}{Interview Guide}{105}{section*.111}%
-\contentsline {section}{Questionnaire}{106}{section*.112}%
-\contentsline {section}{Questionnaire results}{110}{section*.113}%
+\contentsline {section}{\numberline {2.3}Therapeutic Compliance}{15}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Neural Networks}{17}{section.2.4}%
+\contentsline {paragraph}{The human brain}{17}{section*.21}%
+\contentsline {paragraph}{Artificial neural network}{18}{section*.23}%
+\contentsline {subparagraph}{Node Character}{18}{section*.24}%
+\contentsline {subparagraph}{Network Topology}{19}{section*.27}%
+\contentsline {subparagraph}{Learning}{22}{section*.29}%
+\contentsline {paragraph}{Variations}{22}{section*.30}%
+\contentsline {subparagraph}{Deep neural network}{22}{section*.31}%
+\contentsline {subparagraph}{Convolutional neural network}{22}{section*.32}%
+\contentsline {subparagraph}{Graph neural network}{23}{section*.33}%
+\contentsline {subparagraph}{Spiking neural network}{23}{section*.34}%
+\contentsline {section}{\numberline {2.5}Voice Recognition}{23}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}WhisperAI}{24}{subsection.2.5.1}%
+\contentsline {paragraph}{Network architecture}{24}{section*.35}%
+\contentsline {paragraph}{Training}{25}{section*.37}%
+\contentsline {paragraph}{Results}{25}{section*.38}%
+\contentsline {subsection}{\numberline {2.5.2}VoiceItt}{25}{subsection.2.5.2}%
+\contentsline {paragraph}{Results}{25}{section*.39}%
+\contentsline {subsection}{\numberline {2.5.3}Dragon NaturallySpeaking}{26}{subsection.2.5.3}%
+\contentsline {paragraph}{Results}{26}{section*.40}%
+\contentsline {section}{\numberline {2.6}User Centered Design}{26}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Summary}{28}{section.2.7}%
+\contentsline {chapter}{\chapternumberline {3}State of the Art}{31}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Speech Rehabilitation Games}{31}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Treasure Hunters}{31}{subsection.3.1.1}%
+\contentsline {paragraph}{Game Description}{32}{section*.41}%
+\contentsline {paragraph}{Results}{32}{section*.42}%
+\contentsline {subsection}{\numberline {3.1.2}Training with Phonak}{33}{subsection.3.1.2}%
+\contentsline {paragraph}{Game Description}{34}{section*.44}%
+\contentsline {paragraph}{Results}{34}{section*.45}%
+\contentsline {subsection}{\numberline {3.1.3}Opera Singer}{34}{subsection.3.1.3}%
+\contentsline {paragraph}{Game Description}{34}{section*.47}%
+\contentsline {paragraph}{Results}{35}{section*.48}%
+\contentsline {subsection}{\numberline {3.1.4}Apraxia World}{35}{subsection.3.1.4}%
+\contentsline {paragraph}{Game Description}{36}{section*.50}%
+\contentsline {paragraph}{Results}{36}{section*.51}%
+\contentsline {subsection}{\numberline {3.1.5}Flying Rocket}{37}{subsection.3.1.5}%
+\contentsline {paragraph}{Game Description}{37}{section*.53}%
+\contentsline {paragraph}{Results}{37}{section*.54}%
+\contentsline {subsection}{\numberline {3.1.6}Talking to Teo}{38}{subsection.3.1.6}%
+\contentsline {paragraph}{Game Description}{38}{section*.56}%
+\contentsline {paragraph}{Results}{39}{section*.57}%
+\contentsline {subsection}{\numberline {3.1.7}This work}{39}{subsection.3.1.7}%
+\contentsline {paragraph}{Previous results}{40}{section*.59}%
+\contentsline {subsection}{\numberline {3.1.8}Summary}{40}{subsection.3.1.8}%
+\contentsline {paragraph}{Recommendations}{41}{section*.61}%
+\contentsline {subsection}{\numberline {3.1.9}Summary}{41}{subsection.3.1.9}%
+\contentsline {paragraph}{Recommendation}{41}{section*.62}%
+\contentsline {chapter}{\chapternumberline {4}Methodological Approach}{45}{chapter.4}%
+\contentsline {section}{\numberline {4.1}General course of action}{45}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Phase 1: Research}{45}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Phase 2: Development}{47}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Phase 3: Evaluation}{47}{subsection.4.1.3}%
+\contentsline {section}{\numberline {4.2}Answering Research Questions}{48}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Declaration of personal interviews with experts}{49}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Other Participants}{49}{section.4.4}%
+\contentsline {chapter}{\chapternumberline {5}Results}{53}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Iteration 1}{53}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Iteration 2}{55}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Iteration 3 and 4}{57}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Iteration 5 and 6}{58}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Requirements}{58}{section.5.5}%
+\contentsline {subsection}{\numberline {5.5.1}Use Case: Play Level}{61}{subsection.5.5.1}%
+\contentsline {subsubsection}{Phonetic level (R1)}{61}{section*.66}%
+\contentsline {subsubsection}{Syllable level (R2)}{63}{section*.67}%
+\contentsline {subsubsection}{Word level (R3)}{63}{section*.68}%
+\contentsline {subsubsection}{Voice recognition (R5)}{63}{section*.70}%
+\contentsline {paragraph}{VoiceItt}{65}{section*.71}%
+\contentsline {paragraph}{Dragon NaturallySpeaking}{65}{section*.72}%
+\contentsline {paragraph}{Whisper-API}{65}{section*.73}%
+\contentsline {paragraph}{Whisper-Local}{65}{section*.74}%
+\contentsline {subparagraph}{Adaption}{66}{section*.75}%
+\contentsline {subparagraph}{Adaption Process}{66}{section*.76}%
+\contentsline {subsubsection}{Stress component (R11)}{68}{section*.79}%
+\contentsline {subsubsection}{Child Mode (R17)}{69}{section*.81}%
+\contentsline {subsubsection}{Pre-defined word list (R18)}{69}{section*.83}%
+\contentsline {subsubsection}{Multiple voice recognition softwares (R29)}{70}{section*.84}%
+\contentsline {subsection}{\numberline {5.5.2}Use Case: Use additional help}{71}{subsection.5.5.2}%
+\contentsline {subsubsection}{Skip-Button (R19)}{71}{section*.85}%
+\contentsline {subsubsection}{Listen-Button (R20)}{71}{section*.86}%
+\contentsline {subsubsection}{Record-Button (R21)}{71}{section*.87}%
+\contentsline {subsection}{\numberline {5.5.3}Use Case: View High-Scores}{72}{subsection.5.5.3}%
+\contentsline {subsection}{\numberline {5.5.4}Use Case: Change Settings}{73}{subsection.5.5.4}%
+\contentsline {subsection}{\numberline {5.5.5}Use Case: Navigate Game}{73}{subsection.5.5.5}%
+\contentsline {subsubsection}{Start screen (R7)}{73}{section*.91}%
+\contentsline {subsubsection}{Level overview screen (R8)}{74}{section*.92}%
+\contentsline {subsubsection}{Info screen (R14)}{74}{section*.93}%
+\contentsline {subsection}{\numberline {5.5.6}Use Case: Edit category}{74}{subsection.5.5.6}%
+\contentsline {subsection}{\numberline {5.5.7}Use Case: Edit level}{76}{subsection.5.5.7}%
+\contentsline {subsection}{\numberline {5.5.8}Use Case: Review patient performance}{77}{subsection.5.5.8}%
+\contentsline {subsubsection}{Data Log}{77}{section*.97}%
+\contentsline {section}{\numberline {5.6}Game Architecture}{79}{section.5.6}%
+\contentsline {section}{\numberline {5.7}Encountered Problems}{83}{section.5.7}%
+\contentsline {subsection}{\numberline {5.7.1}Voice Recognition}{83}{subsection.5.7.1}%
+\contentsline {subsection}{\numberline {5.7.2}Export Location}{84}{subsection.5.7.2}%
+\contentsline {section}{\numberline {5.8}Evaluation}{84}{section.5.8}%
+\contentsline {subsection}{\numberline {5.8.1}Process structure}{84}{subsection.5.8.1}%
+\contentsline {subsection}{\numberline {5.8.2}Questionnaire results}{85}{subsection.5.8.2}%
+\contentsline {paragraph}{Positive feedback}{86}{section*.103}%
+\contentsline {paragraph}{Negative feedback}{87}{section*.104}%
+\contentsline {paragraph}{Additional requested features}{88}{section*.105}%
+\contentsline {subsection}{\numberline {5.8.3}Final interview}{89}{subsection.5.8.3}%
+\contentsline {paragraph}{Results of introductory questions}{89}{section*.106}%
+\contentsline {paragraph}{Results of main questions}{89}{section*.107}%
+\contentsline {paragraph}{Results of ending questions}{90}{section*.108}%
+\contentsline {chapter}{\chapternumberline {6}Discussion}{93}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Research Question 1}{93}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Research Question 2}{95}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Research Question 3}{96}{section.6.3}%
+\contentsline {chapter}{\chapternumberline {7}Conclusion and future work}{99}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Conclusion}{99}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Future work}{100}{section.7.2}%
+\contentsline {chapter}{List of Figures}{103}{section*.109}%
+\contentsline {chapter}{List of Tables}{105}{section*.110}%
+\contentsline {chapter}{Bibliography}{107}{chapter*.111}%
+\contentsline {chapter}{Appendix}{117}{chapter*.112}%
+\contentsline {section}{Interview Guide}{117}{section*.113}%
+\contentsline {section}{Questionnaire}{118}{section*.114}%
+\contentsline {section}{Questionnaire results}{122}{section*.115}%
